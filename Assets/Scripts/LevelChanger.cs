@@ -38,5 +38,7 @@ public class LevelChanger : MonoBehaviour
         {
             Application.Quit();
         }
+
+        GameManager.instance.ResetGame();
     }
 }

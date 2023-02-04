@@ -6,6 +6,12 @@ public class GameManager : Singleton<GameManager>
     bool isWin = false;
     bool isLose = false;
 
+    public void ResetGame(){
+        isPaused = false;
+        isWin = false;
+        isLose = false;
+    }
+
     public void LoseGame() {
         isLose = true;
     }
@@ -36,6 +42,8 @@ public class GameManager : Singleton<GameManager>
             Debug.Log("You Lose!");
         }
     }
+
+
 
 
 }
