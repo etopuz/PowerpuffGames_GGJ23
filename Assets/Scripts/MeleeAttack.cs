@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class meeleAttack : MonoBehaviour
+public class MeleeAttack : MonoBehaviour
 {
   private float timeBtwAttack;
   public float startTimeBtwAttack;
