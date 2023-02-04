@@ -23,7 +23,6 @@ public class MeleeAttack : MonoBehaviour
             //attackRange,enemyLayers
             for(int i = 0; i < enemiesToDamage.Length; i++){
                 enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
-
             }
             timeBtwAttack = startTimeBtwAttack;
         }
