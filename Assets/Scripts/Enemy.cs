@@ -10,6 +10,7 @@ public class Enemy : BaseUnit
 
     private void Start()
     {
+        base.Start();
         //anim = GetComponent<Animator>();
         //anim.SetBool("isRunning",true);
     }
@@ -32,9 +33,20 @@ public class Enemy : BaseUnit
         }
     }
 
+    public override void TakeDamage(int damage)
+    {
+        base.TakeDamage(damage);
+
+        if (health <= 0)
+        {
+            Die();
+            health = 0;
+        }
+    }
+
     public override void Die()
     {
-        Instantiate(bloodEffect, transform.position, Quaternion.identity);
+        //Instantiate(bloodEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 

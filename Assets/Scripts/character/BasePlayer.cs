@@ -22,14 +22,15 @@ public class BasePlayer : BaseUnit
 
     private void AttackMelee(){
         Collider2D[] enemies = Physics2D.OverlapCircleAll(weaponPoint.position, radius, enemyLayer);
-        
+
         foreach (Collider2D enemy in enemies)
         {
-            if(TryGetComponent(out BaseUnit baseUnit))
+            if(enemy.TryGetComponent(out Enemy enemyScript))
             {
-                baseUnit.TakeDamage(damage);
+                enemyScript.TakeDamage(damage);
             }
         }
+
     }
 
     private void Update()

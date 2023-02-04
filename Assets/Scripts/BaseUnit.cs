@@ -6,19 +6,24 @@ public class BaseUnit : MonoBehaviour
     public int damage;
     public SpriteRenderer spriteRenderer;
 
-    public void TakeDamage(int damage)
+    public void Start()
     {
-        health -= damage;
-        Debug.Log("Health: " + health);
-        if (health <= 0)
-        {
-            Die();
-            health = 0;
-        }
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    public void FlashOnDamage(){
+    public virtual void TakeDamage(int damage)
+    {
+        health -= damage;
+        BlinkOnDamage();
+    }
 
+    public void BlinkOnDamage(){
+        spriteRenderer.color = Color.red;
+        Invoke("ResetColor", 0.1f);
+    }
+
+    public void ResetColor(){
+        spriteRenderer.color = Color.white;
     }
 
     public virtual void Die(){}
