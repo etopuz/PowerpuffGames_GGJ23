@@ -352,16 +352,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a52b1fe3ae09e947ba2d23cb2f6cac5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
-  jumpSpeed: 10
-  jumpFrequency: 10
-  nextJumpTime: 0
-  isGrounded: 1
+  moveSpeed: 4
+  jumpSpeed: 250
+  jumpFrequency: 0.1
+  nextJumpTime: 14
+  isGrounded: 0
   groundCheckPosition: {fileID: 1142760868}
-  groundCheckRadius: 0
+  groundCheckRadius: 0.1
   groundCheckLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
 --- !u!95 &851768053
 Animator:
   serializedVersion: 5
@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 1279724291}
   - component: {fileID: 1279724290}
   - component: {fileID: 1279724289}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Ground
   m_Icon: {fileID: 0}
