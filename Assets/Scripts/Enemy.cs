@@ -7,6 +7,7 @@ public class Enemy : BaseUnit
     public float startDazedTime;
     private Animator anim;
     public GameObject bloodEffect;
+    public GameObject floatingTextPrefab;
 
     private void Start()
     {
@@ -36,6 +37,7 @@ public class Enemy : BaseUnit
     public override void TakeDamage(int damage)
     {
         base.TakeDamage(damage);
+        ShowDamage(damage.ToString());
 
         if (health <= 0)
         {
@@ -60,5 +62,11 @@ public class Enemy : BaseUnit
                 TakeDamage(meleeAttack.damage);
             }
         }
+    }
+
+
+    private void ShowDamage(string text){
+        GameObject floatingText = Instantiate(floatingTextPrefab, transform.position, Quaternion.identity, transform);
+        floatingText.GetComponent<TextMesh>().text = text;
     }
 }

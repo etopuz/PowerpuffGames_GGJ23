@@ -234,6 +234,7 @@ MonoBehaviour:
   speed: 20
   startDazedTime: 0.5
   bloodEffect: {fileID: 0}
+  floatingTextPrefab: {fileID: 0}
 --- !u!1001 &1496003469
 PrefabInstance:
   m_ObjectHideFlags: 0
