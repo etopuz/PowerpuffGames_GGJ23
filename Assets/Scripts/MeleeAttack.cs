@@ -4,24 +4,19 @@ using UnityEngine;
 
 public class MeleeAttack : MonoBehaviour
 {
-  private float timeBtwAttack;
+  public float timeBtwAttack = 0;
   public float startTimeBtwAttack;
   public int damage;
-  public float attackRangeX;
-  public float attackRangeY;
   public float radius;
   public Vector2 point;
 
-
-
   public Transform attackPos;
   public LayerMask whatIsEnemies;
-  public float attackRange;
 
   void Update(){
 
     if(timeBtwAttack <= 0){
-        if(Input.GetKey(KeyCode.Space)){
+        if(Input.GetKeyDown(KeyCode.Space)){
             //camAnim.SetTrigger("shake");
             //playerAnim.SetTrigger("attack");
             Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(point, radius, whatIsEnemies);
@@ -30,9 +25,12 @@ public class MeleeAttack : MonoBehaviour
                 enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
 
             }
+            timeBtwAttack = startTimeBtwAttack;
         }
-        timeBtwAttack = startTimeBtwAttack;
-    }else{
+        
+    }
+    
+    else{
         timeBtwAttack -= Time.deltaTime;
     }
 
