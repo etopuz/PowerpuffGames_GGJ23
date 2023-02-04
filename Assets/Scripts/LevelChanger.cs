@@ -10,7 +10,7 @@ public class LevelChanger : MonoBehaviour
     {
         if (LevelIndex == 0)
         {
-            SceneManager.LoadScene("TrainingLevel");
+            SceneManager.LoadScene("TutorialLevel");
         }
         if (LevelIndex == 1)
         {

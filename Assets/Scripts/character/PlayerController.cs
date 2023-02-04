@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
     {
         // print(Input.GetAxis("Horizontal")); consol ekranýna yazdýrýyor görmek içindi gerek yok
         playerRB.velocity = new Vector2(Input.GetAxis("Horizontal") * moveSpeed, playerRB.velocity.y);
-        playerAnimator.SetFloat("playerSpeed",Mathf.Abs(playerRB.velocity.x));
+        
 
     }
         void FlipFace()

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -46,4 +47,10 @@ TagManager:
     locked: 0
   - name: Button
     uniqueID: 351176545
+    locked: 0
+  - name: Ground
+    uniqueID: 3727272373
+    locked: 0
+  - name: Player
+    uniqueID: 813421727
     locked: 0
