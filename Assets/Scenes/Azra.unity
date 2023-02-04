@@ -199,7 +199,7 @@ MonoBehaviour:
   timeBtwAttack: 0
   startTimeBtwAttack: 0.5
   damage: 15
-  radius: 1
+  radius: 10
   point: {x: 0, y: 0}
   attackPos: {fileID: 1727261444}
   whatIsEnemies:

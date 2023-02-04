@@ -466,6 +466,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
