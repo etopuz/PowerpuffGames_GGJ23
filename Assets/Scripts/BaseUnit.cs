@@ -4,10 +4,12 @@ public class BaseUnit : MonoBehaviour
 {
     public int health;
     public int damage;
+    public SpriteRenderer spriteRenderer;
 
     public void TakeDamage(int damage)
     {
         health -= damage;
+        Debug.Log("Health: " + health);
         if (health <= 0)
         {
             Die();
@@ -15,10 +17,9 @@ public class BaseUnit : MonoBehaviour
         }
     }
 
-    public virtual void Die()
-    {
-        // Die in some way
-        // This method is meant to be overwritten
-        Debug.Log(transform.name + " died.");
+    public void FlashOnDamage(){
+
     }
+
+    public virtual void Die(){}
 }

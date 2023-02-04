@@ -1,8 +1,7 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : BaseUnit
 {
-    public int health;
     public float speed;
     private float dazedTime;
     public float startDazedTime;
@@ -33,11 +32,10 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    public void TakeDamage(int damage)
+    public override void Die()
     {
-        //Instantiate(bloodEffect, transform.position, Quaternion.identity);
-        health -= damage;
-        Debug.Log("damage TAKEN !");
+        Instantiate(bloodEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D other)

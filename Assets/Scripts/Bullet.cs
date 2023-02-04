@@ -18,7 +18,6 @@ public class Bullet : MonoBehaviour
 
     private void FixedUpdate() {
         rb.velocity = direction * speed;
-        Debug.Log(rb.velocity);
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo)
@@ -28,7 +27,6 @@ public class Bullet : MonoBehaviour
         if (basePlayer != null)
         {
             basePlayer.TakeDamage(damage);
-            Debug.Log("Hit");
         }
 
         //Instantiate(impactEffect, transform.position, transform.rotation);

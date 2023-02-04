@@ -223,7 +223,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1017091487}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2a60649469d8184b9ae90b89246002b, type: 3}
   m_Name: 
@@ -421,6 +421,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: radius
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: weaponPoint
+      value: 
+      objectReference: {fileID: 851768049}
+    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: enemyLayer.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: attackCooldownTime
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_RootOrder
       value: 2
