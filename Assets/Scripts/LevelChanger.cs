@@ -34,5 +34,9 @@ public class LevelChanger : MonoBehaviour
         {
             SceneManager.LoadScene("Credits");
         }
+        if (LevelIndex == 6)
+        {
+            Application.Quit();
+        }
     }
 }
