@@ -38,6 +38,10 @@ public class LevelChanger : MonoBehaviour
         {
             Application.Quit();
         }
+        if (LevelIndex == 7)
+        {
+            SceneManager.LoadScene("Entry");
+        }
 
         GameManager.instance.ResetGame();
     }
