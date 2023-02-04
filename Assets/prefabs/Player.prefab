@@ -105,7 +105,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 813421727
-  m_SortingLayer: 4
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
   m_Color: {r: 0.764151, g: 0.503246, b: 0.3272873, a: 1}
@@ -221,3 +221,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   damage: 15
+  spriteRenderer: {fileID: 0}
+  weaponPoint: {fileID: 6794027624869216448}
+  radius: 1.5
+  attackCooldownTime: 1
+  cooldownCounter: 0
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 128

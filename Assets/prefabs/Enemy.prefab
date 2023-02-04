@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1017091490}
   - component: {fileID: 1017091489}
   - component: {fileID: 1017091488}
+  - component: {fileID: 1017091491}
   m_Layer: 7
   m_Name: Enemy
   m_TagString: Untagged
@@ -139,7 +140,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8142676195196762539}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2a60649469d8184b9ae90b89246002b, type: 3}
   m_Name: 
@@ -152,3 +153,22 @@ MonoBehaviour:
   bulletSpeed: 5
   bulletLifeTime: 3
   bulletDamage: 1
+--- !u!114 &1017091491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8142676195196762539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94f77b2501759dc449aed79f737f0eb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  damage: 5
+  spriteRenderer: {fileID: 0}
+  speed: 20
+  startDazedTime: 0.5
+  bloodEffect: {fileID: 0}
+  floatingTextPrefab: {fileID: 8079097415943030074, guid: f20a8e175fa5ab4418e6528851694b9c, type: 3}

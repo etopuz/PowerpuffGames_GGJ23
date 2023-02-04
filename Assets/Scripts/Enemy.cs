@@ -67,6 +67,6 @@ public class Enemy : BaseUnit
 
     private void ShowDamage(string text){
         GameObject floatingText = Instantiate(floatingTextPrefab, transform.position, Quaternion.identity, transform);
-        floatingText.GetComponent<TextMesh>().text = text;
+        floatingText.GetComponentInChildren<TextMesh>().text = text;
     }
 }

@@ -211,30 +211,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
   m_PrefabInstance: {fileID: 6794027624562799153}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1017091487 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8142676195196762539, guid: a04d0148e5212904a84e025646c18a3e, type: 3}
-  m_PrefabInstance: {fileID: 1496003469}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1017091491
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1017091487}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94f77b2501759dc449aed79f737f0eb7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 100
-  damage: 5
-  spriteRenderer: {fileID: 0}
-  speed: 20
-  startDazedTime: 0.5
-  bloodEffect: {fileID: 0}
-  floatingTextPrefab: {fileID: 0}
 --- !u!1001 &1496003469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -246,10 +222,6 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 851768049}
-    - target: {fileID: 1017091488, guid: a04d0148e5212904a84e025646c18a3e, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7541898902493255668, guid: a04d0148e5212904a84e025646c18a3e, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -311,10 +283,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground
       objectReference: {fileID: 0}
-    - target: {fileID: 419240020216938125, guid: 70dc384a094c6d248a5c3dfc2eb1d69b, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 419240020216938127, guid: 70dc384a094c6d248a5c3dfc2eb1d69b, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -368,22 +336,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: radius
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: weaponPoint
-      value: 
-      objectReference: {fileID: 851768049}
-    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: enemyLayer.m_Bits
-      value: 128
-      objectReference: {fileID: 0}
-    - target: {fileID: 851768048, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: attackCooldownTime
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -426,14 +378,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216478, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
