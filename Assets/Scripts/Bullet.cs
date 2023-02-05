@@ -10,10 +10,11 @@ public class Bullet : MonoBehaviour
     public GameObject impactEffect;
 
     public Vector2 direction;
-    public void Fire(Vector2 _direction, float _speed)
+    public void Fire(Vector2 _direction, float _speed, int _damage)
     {
         direction = _direction;
         speed = _speed;
+        damage = _damage;
     }
 
     private void FixedUpdate() {

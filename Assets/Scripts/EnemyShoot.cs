@@ -9,7 +9,7 @@ public class EnemyShoot : MonoBehaviour
     public float nextFire = 0.0f;
     public float bulletSpeed = 10f;
     public float bulletLifeTime = 3f;
-    public float bulletDamage = 1f;
+    public int bulletDamage = 1;
 
 
     private void Start()
@@ -24,7 +24,7 @@ public class EnemyShoot : MonoBehaviour
             nextFire = Time.time + fireRate;
             Vector2 direction = (target.position - transform.position);
             GameObject bullet = Instantiate(bulletPrefab, bulletSpawn.position, Quaternion.identity);
-            bullet.GetComponent<Bullet>().Fire(direction.normalized, bulletSpeed);            
+            bullet.GetComponent<Bullet>().Fire(direction.normalized, bulletSpeed, bulletDamage);            
             Destroy(bullet, bulletLifeTime);
         }
     }

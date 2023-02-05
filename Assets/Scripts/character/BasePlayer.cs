@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class BasePlayer : BaseUnit
 {
@@ -19,10 +20,20 @@ public class BasePlayer : BaseUnit
 
     public AudioClip damageTakenSound;
 
+    public Slider slider;
+
+    public void Start()
+    {
+        base.Start();
+        slider.maxValue = health;
+        slider.value = health;
+    }
+
 
     public override void TakeDamage(int damage)
     {
         base.TakeDamage(damage);
+        slider.value = health;
         AudioSource.PlayClipAtPoint(damageTakenSound, Vector2.zero);
     }
 
