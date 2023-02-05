@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class BasePlayer : BaseUnit
 {
+
     public Transform weaponPoint;
+
     public float radius;
 
     public float attackCooldownTime;
@@ -13,6 +15,11 @@ public class BasePlayer : BaseUnit
 
     public LayerMask enemyLayer;
 
+
+    public override void TakeDamage(int damage)
+    {
+        base.TakeDamage(damage);
+    }
 
     public override void Die()
     {
