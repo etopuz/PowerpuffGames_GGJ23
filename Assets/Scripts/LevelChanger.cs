@@ -6,6 +6,14 @@ using UnityEngine.SceneManagement;
 public class LevelChanger : MonoBehaviour
 {
      public  int LevelIndex;
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+    }
+    
     public void NextScene()
     {
         if (LevelIndex == 0)
@@ -42,7 +50,7 @@ public class LevelChanger : MonoBehaviour
         {
             SceneManager.LoadScene("Entry");
         }
-
+        
         GameManager.instance.ResetGame();
     }
 }
