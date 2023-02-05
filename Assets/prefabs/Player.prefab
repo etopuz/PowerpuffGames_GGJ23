@@ -230,6 +230,8 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128
+  attackSound: {fileID: 8300000, guid: 7dc9d7de444d48744b265726e505bd73, type: 3}
+  damageTakenSound: {fileID: 8300000, guid: c726f778f1336734aba08097dc970d19, type: 3}
 --- !u!114 &8742076406567335872
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -11,6 +11,12 @@ public class EnemyShoot : MonoBehaviour
     public float bulletLifeTime = 3f;
     public float bulletDamage = 1f;
 
+
+    private void Start()
+    {
+        target = GameObject.Find("Player").transform;
+    }
+
     private void Update()
     {
         if (Time.time > nextFire)

@@ -15,10 +15,15 @@ public class BasePlayer : BaseUnit
 
     public LayerMask enemyLayer;
 
+    public AudioClip attackSound;
+
+    public AudioClip damageTakenSound;
+
 
     public override void TakeDamage(int damage)
     {
         base.TakeDamage(damage);
+        AudioSource.PlayClipAtPoint(damageTakenSound, Vector2.zero);
     }
 
     public override void Die()
@@ -29,7 +34,7 @@ public class BasePlayer : BaseUnit
 
     private void AttackMelee(){
         Collider2D[] enemies = Physics2D.OverlapCircleAll(weaponPoint.position, radius, enemyLayer);
-
+        AudioSource.PlayClipAtPoint(attackSound, Vector2.zero);
         foreach (Collider2D enemy in enemies)
         {
             if(enemy.TryGetComponent(out Enemy enemyScript))
