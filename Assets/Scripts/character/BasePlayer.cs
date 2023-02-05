@@ -22,11 +22,14 @@ public class BasePlayer : BaseUnit
 
     public Slider slider;
 
+    public Animator anim;
+
     public void Start()
     {
         base.Start();
         slider.maxValue = health;
         slider.value = health;
+        anim = GetComponent<Animator>();
     }
 
 
@@ -46,6 +49,9 @@ public class BasePlayer : BaseUnit
     private void AttackMelee(){
         Collider2D[] enemies = Physics2D.OverlapCircleAll(weaponPoint.position, radius, enemyLayer);
         AudioSource.PlayClipAtPoint(attackSound, Vector2.zero);
+
+        anim.SetTrigger("Attack");
+
         foreach (Collider2D enemy in enemies)
         {
             if(enemy.TryGetComponent(out Enemy enemyScript))

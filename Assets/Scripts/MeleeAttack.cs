@@ -16,16 +16,29 @@ public class MeleeAttack : MonoBehaviour
   void Update(){
 
     if(timeBtwAttack <= 0){
-        if(Input.GetKeyDown(KeyCode.Space)){
-            //camAnim.SetTrigger("shake");
-            //playerAnim.SetTrigger("attack");
+        bool isAttacked = false;
+        
             Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(point, radius, whatIsEnemies);
             //attackRange,enemyLayers
             for(int i = 0; i < enemiesToDamage.Length; i++){
-                enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
+
+              if (enemiesToDamage[i].GetComponent<Enemy>() != null){
+                  enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
+              }
+
+              else if(enemiesToDamage[i].GetComponent<BasePlayer>() != null) {
+                  enemiesToDamage[i].GetComponent<BasePlayer>().TakeDamage(damage);
+              }
+
+              isAttacked = true;
+                
             }
-            timeBtwAttack = startTimeBtwAttack;
-        }
+            if (isAttacked){
+                timeBtwAttack = startTimeBtwAttack;
+            }
+            else{
+                timeBtwAttack -= Time.deltaTime;
+            }
         
     }
     

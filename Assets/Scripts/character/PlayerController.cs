@@ -6,12 +6,12 @@ public class PlayerController : MonoBehaviour
 {
     Rigidbody2D playerRB;
     Animator playerAnimator;
-    public float moveSpeed=1f;//hýzýn þiddetini belirleyebilmek için
-    public float jumpSpeed = 1f, jumpFrequency=1f, nextJumpTime;//1.kuveetin þiddetini belirleyebilmek için,2.bir saniyede 1 defa zýplasýn (sýklýk),3.bir sonraki zýplayýþ ne zaman onun bilgisi;
+    public float moveSpeed=1f;//hï¿½zï¿½n ï¿½iddetini belirleyebilmek iï¿½in
+    public float jumpSpeed = 1f, jumpFrequency=1f, nextJumpTime;//1.kuveetin ï¿½iddetini belirleyebilmek iï¿½in,2.bir saniyede 1 defa zï¿½plasï¿½n (sï¿½klï¿½k),3.bir sonraki zï¿½playï¿½ï¿½ ne zaman onun bilgisi;
 
     bool facingRight = true;
 
-    //yere deðiyor mu tespiti için gerekenler (daire ile kontrol) //public olan deðiþkenler unityden kontrol edilebilir oluyor
+    //yere deï¿½iyor mu tespiti iï¿½in gerekenler (daire ile kontrol) //public olan deï¿½iï¿½kenler unityden kontrol edilebilir oluyor
     public bool isGrounded = false;
     public Transform groundCheckPosition;
     public float groundCheckRadius;
@@ -29,12 +29,12 @@ public class PlayerController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()//her frame de yap dediklerini,FPSe baðlý method
+    void Update()//her frame de yap dediklerini,FPSe baï¿½lï¿½ method
     {
         HorizontalMove();
         onGroundCheck();
 
-        if (playerRB.velocity.x<0 && facingRight)//yüzü saða doðru baþlangýçtaki gibi ama ivme negatif ,yüzünü çevir
+        if (playerRB.velocity.x<0 && facingRight)//yï¿½zï¿½ saï¿½a doï¿½ru baï¿½langï¿½ï¿½taki gibi ama ivme negatif ,yï¿½zï¿½nï¿½ ï¿½evir
         {
             FlipFace();//Yuzunu cevir metodu
         }
@@ -42,22 +42,22 @@ public class PlayerController : MonoBehaviour
         {
             FlipFace(); //Yuzunu cevir metodu
         }
-        if (Input.GetAxis("Vertical")>0 && isGrounded && (nextJumpTime<Time.timeSinceLevelLoad))//kullanýcý yukarý tuþa basýyorsa ve karakter yere deðiyorsa zýpla
+        if (Input.GetAxis("Vertical")>0 && isGrounded && (nextJumpTime<Time.timeSinceLevelLoad))//kullanï¿½cï¿½ yukarï¿½ tuï¿½a basï¿½yorsa ve karakter yere deï¿½iyorsa zï¿½pla
         {
             nextJumpTime = Time.timeSinceLevelLoad + jumpFrequency;
             Jump();
         }
 
     }
-    void FixedUpdate()//her saniyede 50 kez yap dediklerini, zamana baðlý metod
+    void FixedUpdate()//her saniyede 50 kez yap dediklerini, zamana baï¿½lï¿½ metod
     {
         
     }
     void HorizontalMove()
     {
-        // print(Input.GetAxis("Horizontal")); consol ekranýna yazdýrýyor görmek içindi gerek yok
+        // print(Input.GetAxis("Horizontal")); consol ekranï¿½na yazdï¿½rï¿½yor gï¿½rmek iï¿½indi gerek yok
         playerRB.velocity = new Vector2(Input.GetAxis("Horizontal") * moveSpeed, playerRB.velocity.y);
-        
+        playerAnimator.SetBool("isRunning", Input.GetAxis("Horizontal") != 0);//animasyonu ï¿½alï¿½ï¿½tï¿½r
 
     }
         void FlipFace()
@@ -75,7 +75,7 @@ public class PlayerController : MonoBehaviour
 
     void onGroundCheck()
     {
-       isGrounded= Physics2D.OverlapCircle(groundCheckPosition.position, groundCheckRadius, groundCheckLayer);//oluþturuulan daire yere deðiyor mu, deðiyorsa boolu deðiþtiriyor.
+       isGrounded= Physics2D.OverlapCircle(groundCheckPosition.position, groundCheckRadius, groundCheckLayer);//oluï¿½turuulan daire yere deï¿½iyor mu, deï¿½iyorsa boolu deï¿½iï¿½tiriyor.
        playerAnimator.SetBool("isGroundedAnim",isGrounded); 
     }
 }
