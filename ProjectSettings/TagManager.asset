@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - "Kap\u0131"
+  - Enemy
   layers:
   - Default
   - TransparentFX
