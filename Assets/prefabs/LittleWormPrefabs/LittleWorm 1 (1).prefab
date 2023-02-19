@@ -204,7 +204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeBtwAttack: 0
-  startTimeBtwAttack: 0.5
+  startTimeBtwAttack: 2
   damage: 20
   radius: 1.5
   point: {x: 1.5, y: 1.5}

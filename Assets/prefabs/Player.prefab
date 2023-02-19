@@ -307,10 +307,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.6
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 5
   m_Material: {fileID: 6200000, guid: 957f903e8ffc8754182cf67e0c852518, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -332,7 +332,7 @@ BoxCollider2D:
   m_Offset: {x: 0.007482663, y: 0.0074826926}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4642185, y: 0.4717515}
     oldSize: {x: 0.64, y: 0.64}
     newSize: {x: 1, y: 2}
     adaptiveTilingThreshold: 0.5
@@ -354,8 +354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a52b1fe3ae09e947ba2d23cb2f6cac5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpSpeed: 550
+  moveSpeed: 6
+  jumpSpeed: 750
   jumpFrequency: 0.1
   nextJumpTime: 0
   isGrounded: 0
@@ -409,6 +409,7 @@ MonoBehaviour:
   attackSound: {fileID: 8300000, guid: 7dc9d7de444d48744b265726e505bd73, type: 3}
   damageTakenSound: {fileID: 8300000, guid: c726f778f1336734aba08097dc970d19, type: 3}
   slider: {fileID: 3135070922655539142}
+  anim: {fileID: 0}
 --- !u!114 &8742076406567335872
 MonoBehaviour:
   m_ObjectHideFlags: 0
