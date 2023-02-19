@@ -4374,25 +4374,9 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6794027623423711125, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.001
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027623423711125, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.243
-      objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_RootOrder
       value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4433,66 +4417,6 @@ PrefabInstance:
     - target: {fileID: 6794027624869216448, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216449, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216449, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 05d2808be5e2f9e46b9665c70e99f4b9, type: 3}
-    - target: {fileID: 6794027624869216449, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216449, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216449, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Size.x
-      value: 0.22179449
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Size.y
-      value: 0.45855454
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Offset.x
-      value: 0.007482663
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.0074826926
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.64
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216450, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 0.64
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Mass
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216451, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: 957f903e8ffc8754182cf67e0c852518, type: 2}
-    - target: {fileID: 6794027624869216453, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: jumpSpeed
-      value: 1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794027624869216453, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
-      propertyPath: moveSpeed
-      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6794027624869216478, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_Name
