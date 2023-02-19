@@ -18,7 +18,10 @@ public class MeleeAttack : MonoBehaviour
     if(timeBtwAttack <= 0){
         bool isAttacked = false;
         
-            Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(point, radius, whatIsEnemies);
+            //camAnim.SetTrigger("shake");
+            //playerAnim.SetTrigger("attack");
+
+            Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, radius, whatIsEnemies);
             //attackRange,enemyLayers
             for(int i = 0; i < enemiesToDamage.Length; i++){
 
@@ -39,6 +42,7 @@ public class MeleeAttack : MonoBehaviour
             else{
                 timeBtwAttack -= Time.deltaTime;
             }
+
         
     }
     
