@@ -53,4 +53,10 @@ public class LevelChanger : MonoBehaviour
         
         GameManager.instance.ResetGame();
     }
+
+    public void RestartScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        GameManager.instance.ResetGame();
+    }
 }

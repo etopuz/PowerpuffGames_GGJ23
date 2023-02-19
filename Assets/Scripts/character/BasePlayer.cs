@@ -36,13 +36,17 @@ public class BasePlayer : BaseUnit
     public override void TakeDamage(int damage)
     {
         base.TakeDamage(damage);
+        if(health <= 0)
+        {
+            Die();
+        }
         slider.value = health;
         AudioSource.PlayClipAtPoint(damageTakenSound, Vector2.zero);
     }
 
     public override void Die()
     {
-        //GameManager.instance.LoseGame();
+        GameManager.instance.LoseGame();
     }
 
 
