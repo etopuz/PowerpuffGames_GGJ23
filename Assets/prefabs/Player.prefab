@@ -221,6 +221,7 @@ GameObject:
   - component: {fileID: 6794027624869216452}
   - component: {fileID: 851768048}
   - component: {fileID: 8742076406567335872}
+  - component: {fileID: 663039340}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -354,10 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a52b1fe3ae09e947ba2d23cb2f6cac5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpSpeed: 750
-  jumpFrequency: 0.1
-  nextJumpTime: 0
+  moveSpeed: 1
   isGrounded: 0
   groundCheckPosition: {fileID: 6794027623423711125}
   groundCheckRadius: 0.1
@@ -434,6 +432,25 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 926ac317ada7b264c921a9cfbe1ef1a9, type: 3}
   - {fileID: 8300000, guid: 8ee366c4c573fea4a9b4f938639b2b75, type: 3}
   stepInterval: 0.25
+--- !u!114 &663039340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6794027624869216478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a64c4eaeb685e4882e8985299ed59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 8
+  jumpingPower: 22
+  rb: {fileID: 6794027624869216451}
+  groundCheck: {fileID: 6794027623423711125}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!1001 &6794027625171111127
 PrefabInstance:
   m_ObjectHideFlags: 0

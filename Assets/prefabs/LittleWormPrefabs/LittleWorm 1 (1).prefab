@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 30
-  damage: 5
+  damage: 15
   spriteRenderer: {fileID: 0}
   speed: 10
   startDazedTime: 0
@@ -204,9 +204,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeBtwAttack: 0
-  startTimeBtwAttack: 2
+  startTimeBtwAttack: 1.5
   damage: 20
-  radius: 1.5
+  radius: 2
   point: {x: 1.5, y: 1.5}
   attackPos: {fileID: 5817083368469072894}
   whatIsEnemies:

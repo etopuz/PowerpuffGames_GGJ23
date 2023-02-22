@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D playerRB;
     Animator playerAnimator;
     public float moveSpeed=1f;//h�z�n �iddetini belirleyebilmek i�in
-    public float jumpSpeed = 1f, jumpFrequency=1f, nextJumpTime;//1.kuveetin �iddetini belirleyebilmek i�in,2.bir saniyede 1 defa z�plas�n (s�kl�k),3.bir sonraki z�play�� ne zaman onun bilgisi;
+    //1.kuveetin �iddetini belirleyebilmek i�in,2.bir saniyede 1 defa z�plas�n (s�kl�k),3.bir sonraki z�play�� ne zaman onun bilgisi;
 
     bool facingRight = true;
 
@@ -42,11 +42,7 @@ public class PlayerController : MonoBehaviour
         {
             FlipFace(); //Yuzunu cevir metodu
         }
-        if (Input.GetAxis("Vertical")>0 && isGrounded && (nextJumpTime<Time.timeSinceLevelLoad))//kullan�c� yukar� tu�a bas�yorsa ve karakter yere de�iyorsa z�pla
-        {
-            nextJumpTime = Time.timeSinceLevelLoad + jumpFrequency;
-            Jump();
-        }
+        
 
     }
     void FixedUpdate()//her saniyede 50 kez yap dediklerini, zamana ba�l� metod
@@ -68,10 +64,7 @@ public class PlayerController : MonoBehaviour
         transform.localScale = tempLocalScale;
 
     }
-    void Jump()
-    {
-        playerRB.AddForce(new Vector2(0f,jumpSpeed));
-    }
+   
 
     void onGroundCheck()
     {
