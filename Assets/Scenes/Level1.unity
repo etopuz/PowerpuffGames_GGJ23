@@ -4257,6 +4257,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee5bb74b187180e40ab5dce4c801af52, type: 3}
+--- !u!1 &1207601665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+  m_PrefabInstance: {fileID: 5393416168061325563}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1298519274
 GameObject:
   m_ObjectHideFlags: 0
@@ -4886,6 +4891,10 @@ PrefabInstance:
       propertyPath: patrolPoints.Array.data[1]
       value: 
       objectReference: {fileID: 1941605504}
+    - target: {fileID: 5817083368469072892, guid: fef627c3b6952364197e9c029c0ad072, type: 3}
+      propertyPath: DoorPrefab
+      value: 
+      objectReference: {fileID: 1207601665}
     - target: {fileID: 5817083368469072894, guid: fef627c3b6952364197e9c029c0ad072, type: 3}
       propertyPath: m_RootOrder
       value: 0

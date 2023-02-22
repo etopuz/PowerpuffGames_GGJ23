@@ -363,8 +363,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.6639, y: 15.703}
-  m_SizeDelta: {x: 272.59, y: 61.405}
+  m_AnchoredPosition: {x: 0.0007391, y: -3.3358}
+  m_SizeDelta: {x: 331.03, y: 99.4828}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &487953881
 MonoBehaviour:
@@ -388,10 +388,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 652f7165b7c30ab46af6c4aad90a639b, type: 2}
-    m_FontSize: 30
+    m_FontSize: 27
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -399,7 +399,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Use W to Jump
+  m_Text: 'Use Space to Jump
+
+    Press twice to double jump'
 --- !u!222 &487953882
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -442,7 +444,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.6631, y: -71}
+  m_AnchoredPosition: {x: 2.6639, y: -122}
   m_SizeDelta: {x: 272.59, y: 86.7877}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &527465820
@@ -3726,7 +3728,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.6648, y: 94}
+  m_AnchoredPosition: {x: 2.6669, y: 124}
   m_SizeDelta: {x: 272.5961, y: 95.1898}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1354639815

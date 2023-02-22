@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1017091491}
   m_Layer: 7
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -166,9 +166,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
-  damage: 5
+  damage: 10
   spriteRenderer: {fileID: 0}
   speed: 20
   startDazedTime: 0.5
   bloodEffect: {fileID: 0}
   floatingTextPrefab: {fileID: 8079097415943030074, guid: f20a8e175fa5ab4418e6528851694b9c, type: 3}
+  DoorPrefab: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+  DoorPosition: {x: 9.7, y: -8.7, z: 0}
