@@ -1,6 +1,8 @@
 using System;
 using UnityEngine;
 
+
+
 public class Enemy : BaseUnit
 {
     public float speed;
@@ -9,24 +11,16 @@ public class Enemy : BaseUnit
     private Animator anim;
     public GameObject bloodEffect;
     public GameObject floatingTextPrefab;
-    public GameObject DoorPrefab; // Reference to the prefab for the door to the next level
-    public Vector3 DoorPosition; // The position where the door should be instantiated
-
-    private int numEnemiesRemaining; // The number of enemies remaining in the scene
 
     private void Start()
     {
-       
-        numEnemiesRemaining = GameObject.FindGameObjectsWithTag("Enemy").Length;
+        base.Start();
         //anim = GetComponent<Animator>();
         //anim.SetBool("isRunning",true);
     }
 
     private void Update()
     {
-        
-        
-
         if (dazedTime <= 0)
         {
             speed = 5;
@@ -39,14 +33,7 @@ public class Enemy : BaseUnit
 
         if (health <= 0)
         {
-            numEnemiesRemaining--;
             Destroy(gameObject);
-        }
-
-        if (numEnemiesRemaining == 0)
-        {
-            // Instantiate the door for the next level
-            Instantiate(DoorPrefab, DoorPosition, Quaternion.identity);
         }
     }
 
@@ -65,7 +52,6 @@ public class Enemy : BaseUnit
     public override void Die()
     {
         //Instantiate(bloodEffect, transform.position, Quaternion.identity);
-        numEnemiesRemaining--;
         Destroy(gameObject);
     }
 
