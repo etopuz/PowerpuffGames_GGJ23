@@ -222,6 +222,7 @@ GameObject:
   - component: {fileID: 851768048}
   - component: {fileID: 8742076406567335872}
   - component: {fileID: 663039340}
+  - component: {fileID: 2123333268}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -451,6 +452,20 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+--- !u!114 &2123333268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6794027624869216478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b2532f32b7b5c4aadabfdc0839185b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doorPrefab: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+  DoorSpawnPoint: {x: 9.5, y: -8.8}
 --- !u!1001 &6794027625171111127
 PrefabInstance:
   m_ObjectHideFlags: 0
