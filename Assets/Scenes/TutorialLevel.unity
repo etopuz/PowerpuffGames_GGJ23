@@ -165,7 +165,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 675, y: -60}
+  m_AnchoredPosition: {x: 304, y: -196.03}
   m_SizeDelta: {x: 331.0332, y: 392.0603}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &80409418
@@ -3373,6 +3373,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1171944911 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+  m_PrefabInstance: {fileID: 1265559446}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1252470328
 GameObject:
   m_ObjectHideFlags: 0
@@ -3692,6 +3697,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Kap\u0131"
       objectReference: {fileID: 0}
+    - target: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
 --- !u!1 &1354639813
@@ -4007,6 +4016,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2123333268, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
+      propertyPath: objectToShow
+      value: 
+      objectReference: {fileID: 1171944911}
     - target: {fileID: 4504450495288778973, guid: 55949f406dc6588408cbf143dec9ded2, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0

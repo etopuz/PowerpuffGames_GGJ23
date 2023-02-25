@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class CreatingDoor : MonoBehaviour
 {
-    public GameObject doorPrefab; // The door prefab to be instantiated
-    public Vector2 DoorSpawnPoint;
+    
     private bool hasExecuted = false;
+    public GameObject objectToShow;
 
+    public void Start()
+    {
+        objectToShow.SetActive(false);
 
+    }
     public void Update()
     {
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
@@ -18,9 +22,9 @@ public class CreatingDoor : MonoBehaviour
         {
             if (!hasExecuted) //makes it run for one time in update method
             {
-                
-                Instantiate(doorPrefab, DoorSpawnPoint, Quaternion.identity);
-                Debug.Log("This code runs once in the Update method.");
+
+                objectToShow.SetActive(true);
+
 
                 hasExecuted = true;
             }

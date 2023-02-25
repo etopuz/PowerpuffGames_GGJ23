@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a64c4eaeb685e4882e8985299ed59b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
+  speed: 7
   jumpingPower: 22
   rb: {fileID: 6794027624869216451}
   groundCheck: {fileID: 6794027623423711125}
@@ -464,8 +464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64b2532f32b7b5c4aadabfdc0839185b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  doorPrefab: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
-  DoorSpawnPoint: {x: 9.5, y: -8.8}
+  objectToShow: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
 --- !u!1001 &6794027625171111127
 PrefabInstance:
   m_ObjectHideFlags: 0
