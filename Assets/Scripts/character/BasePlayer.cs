@@ -24,6 +24,8 @@ public class BasePlayer : BaseUnit
 
     public Animator anim;
 
+    
+
     public void Start()
     {
         base.Start();
@@ -86,4 +88,15 @@ public class BasePlayer : BaseUnit
     {
         Gizmos.DrawWireSphere(weaponPoint.position, radius);
     }
+
+    public void IncreaseHealth(int amount)
+    {
+       health += amount;
+        if (health > slider.maxValue)
+        {
+           health = (int)slider.maxValue;
+        }
+        slider.value = health;
+    }
+
 }
