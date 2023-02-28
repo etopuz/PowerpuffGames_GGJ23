@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 5817083368469072893}
   - component: {fileID: -8653745493542544422}
   m_Layer: 7
-  m_Name: LittleWorm 1 (1)
+  m_Name: LittleWorm
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

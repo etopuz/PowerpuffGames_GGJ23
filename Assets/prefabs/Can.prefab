@@ -122,5 +122,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27bff83bd2bb536448cae4ec5cca0995, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthAmount: 15
+  healthAmount: 45
   collectSound: {fileID: 8300000, guid: 83281b3c83358714ba939e0bafb7e6ad, type: 3}

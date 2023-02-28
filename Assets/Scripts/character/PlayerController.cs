@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed=1f;//h�z�n �iddetini belirleyebilmek i�in
     //1.kuveetin �iddetini belirleyebilmek i�in,2.bir saniyede 1 defa z�plas�n (s�kl�k),3.bir sonraki z�play�� ne zaman onun bilgisi;
 
-    bool facingRight = true;
+    public bool facingRight = true;
 
     //yere de�iyor mu tespiti i�in gerekenler (daire ile kontrol) //public olan de�i�kenler unityden kontrol edilebilir oluyor
     public bool isGrounded = false;
