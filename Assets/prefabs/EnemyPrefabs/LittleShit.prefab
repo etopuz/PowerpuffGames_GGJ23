@@ -144,6 +144,7 @@ MonoBehaviour:
   startDazedTime: 0
   bloodEffect: {fileID: 0}
   floatingTextPrefab: {fileID: 8079097415943030074, guid: f20a8e175fa5ab4418e6528851694b9c, type: 3}
+  deathParticle: {fileID: 6650199810314842004, guid: 3b7f2c753d435d647a80f1f047a113e3, type: 3}
 --- !u!95 &962332343
 Animator:
   serializedVersion: 5

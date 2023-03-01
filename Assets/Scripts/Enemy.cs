@@ -11,8 +11,9 @@ public class Enemy : BaseUnit
     private Animator anim;
     public GameObject bloodEffect;
     public GameObject floatingTextPrefab;
+    public ParticleSystem deathParticle;
 
-    private void Start()
+   private void Start()
     {
         base.Start();
         //anim = GetComponent<Animator>();
@@ -52,6 +53,8 @@ public class Enemy : BaseUnit
     public override void Die()
     {
         //Instantiate(bloodEffect, transform.position, Quaternion.identity);
+
+        Instantiate(deathParticle, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 
