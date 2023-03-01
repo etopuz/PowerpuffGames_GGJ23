@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class BossController : MonoBehaviour
 {
-    public Vector2 startPoint;
-    public Vector2 endPoint;
+   
     public float speed = 2.0f;
     public float attackRadius = 2.0f;
 
@@ -13,6 +12,9 @@ public class BossController : MonoBehaviour
     private Transform target;
     private bool isAttacking = false;
     private bool facingRight = false;
+
+    public Transform[] patrolPoints;
+    public int patrolDestination;
 
     void Start()
     {
@@ -24,16 +26,29 @@ public class BossController : MonoBehaviour
     {
         if (!isAttacking)
         {
-            transform.position = new Vector2(Mathf.Lerp(startPoint.x, endPoint.x, Mathf.PingPong(Time.time * speed, 1.0f)), transform.position.y);
+            if (patrolDestination == 0)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, patrolPoints[0].position, speed * Time.deltaTime);
+                if (Vector2.Distance(transform.position, patrolPoints[0].position) < .2f)
+                {
+                    transform.localScale = new Vector3(6, 6, 1);
+                    patrolDestination = 1;
+                    Flip();
+                }
+            }
 
-            if (transform.position.x > 6 && facingRight)
+            if (patrolDestination == 1)
             {
-                Flip();          
+                transform.position = Vector2.MoveTowards(transform.position, patrolPoints[1].position, speed * Time.deltaTime);
+                if (Vector2.Distance(transform.position, patrolPoints[1].position) < .2f)
+                {
+                    transform.localScale = new Vector3(-6, 6, -1);
+                    patrolDestination = 0;
+                    Flip();
+                }
             }
-            else if (transform.position.x < -7 && !facingRight)
-            {
-                Flip();
-            }
+
+           
         }
 
         float distance = Vector3.Distance(transform.position, target.position);
