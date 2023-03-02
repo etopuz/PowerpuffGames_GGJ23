@@ -1,21 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LevelChanger : MonoBehaviour
 {
      public  int LevelIndex;
+  
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
-        {
+        {     
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
     
     public void NextScene()
     {
+ 
         if (LevelIndex == 0)
         {
             SceneManager.LoadScene("TutorialLevel");
@@ -24,12 +27,10 @@ public class LevelChanger : MonoBehaviour
         {
             SceneManager.LoadScene("Level1");
         }
-
         if (LevelIndex == 2)
         {
             SceneManager.LoadScene("Level2");
         }
-
         if (LevelIndex == 3)
         {
             SceneManager.LoadScene("Level3");
