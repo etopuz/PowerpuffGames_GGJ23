@@ -20,7 +20,7 @@ public class CreatingDoor : MonoBehaviour
 
         if (enemies.Length == 0)
         {
-            if (!hasExecuted) //makes it run for one time in update method
+            if (!hasExecuted) //Kodun bir ker calismasina yariyor
             {
 
                 objectToShow.SetActive(true);
