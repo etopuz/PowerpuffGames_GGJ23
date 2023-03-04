@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: bac67bd62da89354dbec84dfc212ca85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2837474860815921918
+    second: TileMap(KoyuKahve)_0
+  - first:
+      213: 8241478658351425520
+    second: TileMap(KoyuKahve)_1
+  - first:
+      213: 832757632909816809
+    second: TileMap(KoyuKahve)_2
+  - first:
+      213: -4268815843329443831
+    second: TileMap(KoyuKahve)_3
+  - first:
+      213: -4749478917932597255
+    second: TileMap(KoyuKahve)_4
+  - first:
+      213: -7594678946341506247
+    second: TileMap(KoyuKahve)_5
+  - first:
+      213: -4639384032549360230
+    second: TileMap(KoyuKahve)_6
+  - first:
+      213: -5947457625255311917
+    second: TileMap(KoyuKahve)_7
+  - first:
+      213: -3224067115137706375
+    second: TileMap(KoyuKahve)_8
+  - first:
+      213: 8693289723622630517
+    second: TileMap(KoyuKahve)_9
+  - first:
+      213: 5651169238671558613
+    second: TileMap(KoyuKahve)_10
+  - first:
+      213: -4154724550236189594
+    second: TileMap(KoyuKahve)_11
+  - first:
+      213: 993384140654334875
+    second: TileMap(KoyuKahve)_12
+  - first:
+      213: -4876183750465807672
+    second: TileMap(KoyuKahve)_13
+  - first:
+      213: -7404284682578645707
+    second: TileMap(KoyuKahve)_14
+  - first:
+      213: -7755906675239474178
+    second: TileMap(KoyuKahve)_15
+  - first:
+      213: -7109912212577465638
+    second: TileMap(KoyuKahve)_16
+  - first:
+      213: -6757003970103757282
+    second: TileMap(KoyuKahve)_17
+  - first:
+      213: -6971398409507104519
+    second: TileMap(KoyuKahve)_18
+  - first:
+      213: 1478494329711961932
+    second: TileMap(KoyuKahve)_19
+  - first:
+      213: -6142868886579133928
+    second: TileMap(KoyuKahve)_20
+  - first:
+      213: 4359036063531544585
+    second: TileMap(KoyuKahve)_21
+  - first:
+      213: 6190360852111054629
+    second: TileMap(KoyuKahve)_22
+  - first:
+      213: 570312684571015143
+    second: TileMap(KoyuKahve)_23
+  - first:
+      213: -8334386773911442155
+    second: TileMap(KoyuKahve)_24
+  - first:
+      213: -375581818061683483
+    second: TileMap(KoyuKahve)_25
+  - first:
+      213: 2273909725350032094
+    second: TileMap(KoyuKahve)_26
+  - first:
+      213: -3039396769387775860
+    second: TileMap(KoyuKahve)_27
+  - first:
+      213: 5352313975416934901
+    second: TileMap(KoyuKahve)_28
+  - first:
+      213: -6033181923530273250
+    second: TileMap(KoyuKahve)_29
+  - first:
+      213: -7060440814595713844
+    second: TileMap(KoyuKahve)_30
+  - first:
+      213: -2653783963968920929
+    second: TileMap(KoyuKahve)_31
+  - first:
+      213: -8813753643141035876
+    second: TileMap(KoyuKahve)_32
+  - first:
+      213: -5548820079509808746
+    second: TileMap(KoyuKahve)_33
+  - first:
+      213: -7409461656104996717
+    second: TileMap(KoyuKahve)_34
+  - first:
+      213: -5296866183915286043
+    second: TileMap(KoyuKahve)_35
+  - first:
+      213: 1452835260514295534
+    second: TileMap(KoyuKahve)_36
+  - first:
+      213: -5979818278874362583
+    second: TileMap(KoyuKahve)_37
+  - first:
+      213: 4641715888971176458
+    second: TileMap(KoyuKahve)_38
+  - first:
+      213: -6361158424496334368
+    second: TileMap(KoyuKahve)_39
+  - first:
+      213: -6965087649636194
+    second: TileMap(KoyuKahve)_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d47fdc5a34f98d0800000000000000
+      internalID: -2837474860815921918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7effeac2d9f5270800000000000000
+      internalID: 8241478658351425520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b59da7ac8e8b00800000000000000
+      internalID: 832757632909816809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f9ce8b9e12c4c0800000000000000
+      internalID: -4268815843329443831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffbb648616761eb0800000000000000
+      internalID: -4749478917932597255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333d249cb74a9690800000000000000
+      internalID: -7594678946341506247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da64b8dc89d9fb0800000000000000
+      internalID: -4639384032549360230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d508f10dc2667da0800000000000000
+      internalID: -5947457625255311917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d2366a00d143d0800000000000000
+      internalID: -3224067115137706375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 212
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a412d1f4c4a870800000000000000
+      internalID: 8693289723622630517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d702ac3b7cfc6e40800000000000000
+      internalID: 5651169238671558613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cc393c8047756c0800000000000000
+      internalID: -4154724550236189594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93553ddc9539cd00800000000000000
+      internalID: 993384140654334875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca14fdc6b0545cb0800000000000000
+      internalID: -4876183750465807672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da80f8f42be3990800000000000000
+      internalID: -7404284682578645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb254fa8fb7d5490800000000000000
+      internalID: -7755906675239474178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adacb193384845d90800000000000000
+      internalID: -7109912212577465638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16bf0870bc4a32a0800000000000000
+      internalID: -6757003970103757282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81b95251e904f90800000000000000
+      internalID: -6971398409507104519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 168
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4729ec62caa48410800000000000000
+      internalID: 1478494329711961932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c6a14b4520caa0800000000000000
+      internalID: -6142868886579133928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003ae164386e7c30800000000000000
+      internalID: 4359036063531544585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275095a56498e550800000000000000
+      internalID: 6190360852111054629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e731ce6d582ae700800000000000000
+      internalID: 570312684571015143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6b48f26f465c80800000000000000
+      internalID: -8334386773911442155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4865e835aa9caf0800000000000000
+      internalID: -375581818061683483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27bc6f8dc8e8f10800000000000000
+      internalID: 2273909725350032094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88fb2dddb4e1d5d0800000000000000
+      internalID: -3039396769387775860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d51fe33d374a40800000000000000
+      internalID: 5352313975416934901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8ba67105d54ca0800000000000000
+      internalID: -6033181923530273250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45a58ac76440e90800000000000000
+      internalID: -7060440814595713844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92210d8b8ddb2bd0800000000000000
+      internalID: -2653783963968920929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9806c242c14fa580800000000000000
+      internalID: -8813753643141035876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 80
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699534e5981aef2b0800000000000000
+      internalID: -5548820079509808746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390fbfa71ed4c2990800000000000000
+      internalID: -7409461656104996717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e153fc0540cd76b0800000000000000
+      internalID: -5296866183915286043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedd14d8f1892410800000000000000
+      internalID: 1452835260514295534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4e4235fa630da0800000000000000
+      internalID: -5979818278874362583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad9661200ba6040800000000000000
+      internalID: 4641715888971176458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e999e3ad10a8b7a0800000000000000
+      internalID: -6361158424496334368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve)_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9060d82a4147eff0800000000000000
+      internalID: -6965087649636194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
