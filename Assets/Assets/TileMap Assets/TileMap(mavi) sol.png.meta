@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 4435de473f40e5e4fab21c9e8e1fe29a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5400563710367875001
+    second: TileMap(mavi) sol_0
+  - first:
+      213: 8114960085241226765
+    second: TileMap(mavi) sol_1
+  - first:
+      213: -6384511230919559769
+    second: TileMap(mavi) sol_2
+  - first:
+      213: 4863547009871914398
+    second: TileMap(mavi) sol_3
+  - first:
+      213: -3074761548756955769
+    second: TileMap(mavi) sol_4
+  - first:
+      213: 1359554444733371750
+    second: TileMap(mavi) sol_5
+  - first:
+      213: -866255761670390331
+    second: TileMap(mavi) sol_6
+  - first:
+      213: -638640756010222882
+    second: TileMap(mavi) sol_7
+  - first:
+      213: 8239538922331367596
+    second: TileMap(mavi) sol_8
+  - first:
+      213: -8488043699613086027
+    second: TileMap(mavi) sol_9
+  - first:
+      213: -7978807749159792836
+    second: TileMap(mavi) sol_10
+  - first:
+      213: 2819756939063967648
+    second: TileMap(mavi) sol_11
+  - first:
+      213: 2336569656591295962
+    second: TileMap(mavi) sol_12
+  - first:
+      213: 5049221448190208630
+    second: TileMap(mavi) sol_13
+  - first:
+      213: 8442874182058626892
+    second: TileMap(mavi) sol_14
+  - first:
+      213: 256695825585268453
+    second: TileMap(mavi) sol_15
+  - first:
+      213: 5384538144464387119
+    second: TileMap(mavi) sol_16
+  - first:
+      213: -3458755760673828369
+    second: TileMap(mavi) sol_17
+  - first:
+      213: -5103342383489240158
+    second: TileMap(mavi) sol_18
+  - first:
+      213: 6131708025619700610
+    second: TileMap(mavi) sol_19
+  - first:
+      213: -6421662907560204723
+    second: TileMap(mavi) sol_20
+  - first:
+      213: 393775277899874065
+    second: TileMap(mavi) sol_21
+  - first:
+      213: 3815261112249643530
+    second: TileMap(mavi) sol_22
+  - first:
+      213: -8745645389869371167
+    second: TileMap(mavi) sol_23
+  - first:
+      213: 1750698146532628695
+    second: TileMap(mavi) sol_24
+  - first:
+      213: 4593232995383450203
+    second: TileMap(mavi) sol_25
+  - first:
+      213: -7139004269294318051
+    second: TileMap(mavi) sol_26
+  - first:
+      213: -7385135342868469700
+    second: TileMap(mavi) sol_27
+  - first:
+      213: -931326854292504405
+    second: TileMap(mavi) sol_28
+  - first:
+      213: -2756164910653927529
+    second: TileMap(mavi) sol_29
+  - first:
+      213: -3272122157195445907
+    second: TileMap(mavi) sol_30
+  - first:
+      213: 8236338379285979072
+    second: TileMap(mavi) sol_31
+  - first:
+      213: -8453235098595869364
+    second: TileMap(mavi) sol_32
+  - first:
+      213: 5454993466788699226
+    second: TileMap(mavi) sol_33
+  - first:
+      213: 8135356699030601777
+    second: TileMap(mavi) sol_34
+  - first:
+      213: 4978565659927503283
+    second: TileMap(mavi) sol_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 379
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74048a83be75d05b0800000000000000
+      internalID: -5400563710367875001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 379
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e64fd3312e9070800000000000000
+      internalID: 8114960085241226765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53c80bcd8a567a0800000000000000
+      internalID: -6384511230919559769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9524dfbc3ace7340800000000000000
+      internalID: 4863547009871914398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcf4589a04455d0800000000000000
+      internalID: -3074761548756955769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d223709b1ed210800000000000000
+      internalID: 1359554444733371750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd300179f07af3f0800000000000000
+      internalID: -866255761670390331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7ce6bd971327f0800000000000000
+      internalID: -638640756010222882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e092bef8b85270800000000000000
+      internalID: 8239538922331367596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec19e0a39643a80800000000000000
+      internalID: -8488043699613086027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f423c20a4954190800000000000000
+      internalID: -7978807749159792836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb9d11ff9c12720800000000000000
+      internalID: 2819756939063967648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a41619b92d6020800000000000000
+      internalID: 2336569656591295962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a29abb720721640800000000000000
+      internalID: 5049221448190208630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcbe8165d1b2570800000000000000
+      internalID: 8442874182058626892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e55b4e77ff8300800000000000000
+      internalID: 256695825585268453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3754f9e8b9ba40800000000000000
+      internalID: 5384538144464387119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1533006f70000d0800000000000000
+      internalID: -3458755760673828369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bde014294d29b0800000000000000
+      internalID: -5103342383489240158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b597d46f3381550800000000000000
+      internalID: 6131708025619700610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466297eb9ba1e6a0800000000000000
+      internalID: -6421662907560204723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f7d886788f67500800000000000000
+      internalID: 393775277899874065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02700974c782f430800000000000000
+      internalID: 3815261112249643530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bd45bad931a680800000000000000
+      internalID: -8745645389869371167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8130d40babb4810800000000000000
+      internalID: 1750698146532628695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a1f64c2117ebf30800000000000000
+      internalID: 4593232995383450203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e07bee0792dec90800000000000000
+      internalID: -7139004269294318051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386426a88ab28990800000000000000
+      internalID: -7385135342868469700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba00d1019234313f0800000000000000
+      internalID: -931326854292504405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8316dd9220c9d0800000000000000
+      internalID: -2756164910653927529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693ea60c361792d0800000000000000
+      internalID: -3272122157195445907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd1433e1a5d4270800000000000000
+      internalID: 8236338379285979072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3459077310ba80800000000000000
+      internalID: -8453235098595869364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c540008a704bb40800000000000000
+      internalID: 5454993466788699226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13040d690d796e070800000000000000
+      internalID: 8135356699030601777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(mavi) sol_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1efe2171b671540800000000000000
+      internalID: 4978565659927503283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

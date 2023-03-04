@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 7f6dffdd8cf113340af9db4623ebd224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7976335370711845287
+    second: "TileMap(KoyuKahve) sa\u011F_0"
+  - first:
+      213: 2337703286360237247
+    second: "TileMap(KoyuKahve) sa\u011F_1"
+  - first:
+      213: 7323062905925021818
+    second: "TileMap(KoyuKahve) sa\u011F_2"
+  - first:
+      213: 2996759264267048352
+    second: "TileMap(KoyuKahve) sa\u011F_3"
+  - first:
+      213: 3095501189734672035
+    second: "TileMap(KoyuKahve) sa\u011F_4"
+  - first:
+      213: -8959887689965451564
+    second: "TileMap(KoyuKahve) sa\u011F_5"
+  - first:
+      213: 8698117963472128053
+    second: "TileMap(KoyuKahve) sa\u011F_6"
+  - first:
+      213: 5663579970554110580
+    second: "TileMap(KoyuKahve) sa\u011F_7"
+  - first:
+      213: -2762439215468795539
+    second: "TileMap(KoyuKahve) sa\u011F_8"
+  - first:
+      213: 2166037140883162113
+    second: "TileMap(KoyuKahve) sa\u011F_9"
+  - first:
+      213: -6677286817576705639
+    second: "TileMap(KoyuKahve) sa\u011F_10"
+  - first:
+      213: 3571849651373039500
+    second: "TileMap(KoyuKahve) sa\u011F_11"
+  - first:
+      213: -4555385495634168081
+    second: "TileMap(KoyuKahve) sa\u011F_12"
+  - first:
+      213: -8558471642671458759
+    second: "TileMap(KoyuKahve) sa\u011F_13"
+  - first:
+      213: 2790351014442573562
+    second: "TileMap(KoyuKahve) sa\u011F_14"
+  - first:
+      213: 8598907145265746550
+    second: "TileMap(KoyuKahve) sa\u011F_15"
+  - first:
+      213: -3013751191606645774
+    second: "TileMap(KoyuKahve) sa\u011F_16"
+  - first:
+      213: -6309855782072823055
+    second: "TileMap(KoyuKahve) sa\u011F_17"
+  - first:
+      213: 3477291483315454286
+    second: "TileMap(KoyuKahve) sa\u011F_18"
+  - first:
+      213: -7848011867479826862
+    second: "TileMap(KoyuKahve) sa\u011F_19"
+  - first:
+      213: 7236134555928392969
+    second: "TileMap(KoyuKahve) sa\u011F_20"
+  - first:
+      213: 6991914149926158760
+    second: "TileMap(KoyuKahve) sa\u011F_21"
+  - first:
+      213: -7858415094456191473
+    second: "TileMap(KoyuKahve) sa\u011F_22"
+  - first:
+      213: -5655335896119794212
+    second: "TileMap(KoyuKahve) sa\u011F_23"
+  - first:
+      213: 6488453390581393430
+    second: "TileMap(KoyuKahve) sa\u011F_24"
+  - first:
+      213: -5537749673094021769
+    second: "TileMap(KoyuKahve) sa\u011F_25"
+  - first:
+      213: -3049568382488256531
+    second: "TileMap(KoyuKahve) sa\u011F_26"
+  - first:
+      213: -4577831636907651789
+    second: "TileMap(KoyuKahve) sa\u011F_27"
+  - first:
+      213: 2592895162638738191
+    second: "TileMap(KoyuKahve) sa\u011F_28"
+  - first:
+      213: -8381063761458815279
+    second: "TileMap(KoyuKahve) sa\u011F_29"
+  - first:
+      213: -5019039105424047392
+    second: "TileMap(KoyuKahve) sa\u011F_30"
+  - first:
+      213: -5855072674744503045
+    second: "TileMap(KoyuKahve) sa\u011F_31"
+  - first:
+      213: -4222307438471621072
+    second: "TileMap(KoyuKahve) sa\u011F_32"
+  - first:
+      213: -4051867327124705040
+    second: "TileMap(KoyuKahve) sa\u011F_33"
+  - first:
+      213: 6493564841706157314
+    second: "TileMap(KoyuKahve) sa\u011F_34"
+  - first:
+      213: -2054777648293541244
+    second: "TileMap(KoyuKahve) sa\u011F_35"
+  - first:
+      213: 4174713006562733260
+    second: "TileMap(KoyuKahve) sa\u011F_36"
+  - first:
+      213: 4567012157994168607
+    second: "TileMap(KoyuKahve) sa\u011F_37"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_0"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 438
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c9ac52c2a1be60800000000000000
+      internalID: 7976335370711845287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_1"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 438
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e3c5d0c0317020800000000000000
+      internalID: 2337703286360237247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 394
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703087e9eeb0a560800000000000000
+      internalID: 7323062905925021818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_3"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 394
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a59fff5ca0a69920800000000000000
+      internalID: 2996759264267048352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_4"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 394
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a62fef6eed65fa20800000000000000
+      internalID: 3095501189734672035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_5"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 394
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c6341e9518a380800000000000000
+      internalID: -8959887689965451564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_6"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 350
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384333043ce5b870800000000000000
+      internalID: 8698117963472128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_7"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47225ede9f3199e40800000000000000
+      internalID: 5663579970554110580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_8"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 350
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69af586b28d9a9d0800000000000000
+      internalID: -2762439215468795539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_9"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 350
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104c4a0bd4f4f0e10800000000000000
+      internalID: 2166037140883162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_10"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 350
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99121f664038553a0800000000000000
+      internalID: -6677286817576705639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_11"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f513d5552c19130800000000000000
+      internalID: 3571849651373039500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_12"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe632c5f60508c0c0800000000000000
+      internalID: -4555385495634168081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_13"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936505eb2633a3980800000000000000
+      internalID: -8558471642671458759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_14"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 306
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe1086b67159b620800000000000000
+      internalID: 2790351014442573562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_15"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 306
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672122a5d74755770800000000000000
+      internalID: 8598907145265746550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_16"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 262
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb20ee32410d26d0800000000000000
+      internalID: -3013751191606645774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_17"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 262
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2da95e893ee68a0800000000000000
+      internalID: -6309855782072823055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_18"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 262
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41428b3e22d14030800000000000000
+      internalID: 3477291483315454286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_19"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 262
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e90dd79c2461390800000000000000
+      internalID: -7848011867479826862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_20"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 262
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057a093a0aeb6460800000000000000
+      internalID: 7236134555928392969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_21"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 218
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14066efd4480160800000000000000
+      internalID: 6991914149926158760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_22"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 218
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06fe557b1d41f290800000000000000
+      internalID: -7858415094456191473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_23"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5a34a37f53481b0800000000000000
+      internalID: -5655335896119794212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_24"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 218
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618684f3bfd9b0a50800000000000000
+      internalID: 6488453390581393430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_25"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 218
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df1383306f523b0800000000000000
+      internalID: -5537749673094021769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_26"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 174
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def5683a6b1cda5d0800000000000000
+      internalID: -3049568382488256531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_27"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 174
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d039071664870c0800000000000000
+      internalID: -4577831636907651789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_28"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 174
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0329e4a960dbf320800000000000000
+      internalID: 2592895162638738191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_29"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 174
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de195ae9ea70bb80800000000000000
+      internalID: -8381063761458815279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_30"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 130
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2c76f868ac85ab0800000000000000
+      internalID: -5019039105424047392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_31"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 130
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f1cf7c6a9ebea0800000000000000
+      internalID: -5855072674744503045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_32"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 130
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d86561c95765c0800000000000000
+      internalID: -4222307438471621072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_33"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 130
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f078b93220e4c7c0800000000000000
+      internalID: -4051867327124705040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_34"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057cd3b1d6cd1a50800000000000000
+      internalID: 6493564841706157314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_35"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 86
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0d059d96fb73e0800000000000000
+      internalID: -2054777648293541244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_36"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccef536c5f8fe930800000000000000
+      internalID: 4174713006562733260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(KoyuKahve) sa\u011F_37"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 42
+        width: 44
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11f1225c59416f30800000000000000
+      internalID: 4567012157994168607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

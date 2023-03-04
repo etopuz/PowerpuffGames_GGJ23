@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 3a46d9e0d0d8bc548a9e39cab4b06247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1743056497296439244
+    second: TileMap(KoyuKahve) sol_0
+  - first:
+      213: -1699889877302907064
+    second: TileMap(KoyuKahve) sol_1
+  - first:
+      213: -2834705699415441894
+    second: TileMap(KoyuKahve) sol_2
+  - first:
+      213: -201117329735892546
+    second: TileMap(KoyuKahve) sol_3
+  - first:
+      213: -8089737318404686018
+    second: TileMap(KoyuKahve) sol_4
+  - first:
+      213: -6750793079520305695
+    second: TileMap(KoyuKahve) sol_5
+  - first:
+      213: -4837368841002662855
+    second: TileMap(KoyuKahve) sol_6
+  - first:
+      213: -4546052603193007121
+    second: TileMap(KoyuKahve) sol_7
+  - first:
+      213: 8825132346028104564
+    second: TileMap(KoyuKahve) sol_8
+  - first:
+      213: -3723356707223606733
+    second: TileMap(KoyuKahve) sol_9
+  - first:
+      213: -960564994199480999
+    second: TileMap(KoyuKahve) sol_10
+  - first:
+      213: 4159540757294598153
+    second: TileMap(KoyuKahve) sol_11
+  - first:
+      213: -3435939861927502895
+    second: TileMap(KoyuKahve) sol_12
+  - first:
+      213: 5067143121465350833
+    second: TileMap(KoyuKahve) sol_13
+  - first:
+      213: -1898798574761856366
+    second: TileMap(KoyuKahve) sol_14
+  - first:
+      213: 7888162456546724
+    second: TileMap(KoyuKahve) sol_15
+  - first:
+      213: -1010323281169258850
+    second: TileMap(KoyuKahve) sol_16
+  - first:
+      213: 3508827819920942558
+    second: TileMap(KoyuKahve) sol_17
+  - first:
+      213: 3354523021259229878
+    second: TileMap(KoyuKahve) sol_18
+  - first:
+      213: 102562076145813085
+    second: TileMap(KoyuKahve) sol_19
+  - first:
+      213: 6888498653247339431
+    second: TileMap(KoyuKahve) sol_20
+  - first:
+      213: -2804380290425894190
+    second: TileMap(KoyuKahve) sol_21
+  - first:
+      213: 3458876558087530676
+    second: TileMap(KoyuKahve) sol_22
+  - first:
+      213: 305018732247787487
+    second: TileMap(KoyuKahve) sol_23
+  - first:
+      213: -6330746874337243223
+    second: TileMap(KoyuKahve) sol_24
+  - first:
+      213: -5300291865590543729
+    second: TileMap(KoyuKahve) sol_25
+  - first:
+      213: -4694044956257062809
+    second: TileMap(KoyuKahve) sol_26
+  - first:
+      213: 6465190052346110488
+    second: TileMap(KoyuKahve) sol_27
+  - first:
+      213: 2891889733274739821
+    second: TileMap(KoyuKahve) sol_28
+  - first:
+      213: -4767416936045425418
+    second: TileMap(KoyuKahve) sol_29
+  - first:
+      213: -5907846460940216933
+    second: TileMap(KoyuKahve) sol_30
+  - first:
+      213: -2794344241043222378
+    second: TileMap(KoyuKahve) sol_31
+  - first:
+      213: -6754715867726494041
+    second: TileMap(KoyuKahve) sol_32
+  - first:
+      213: -3171055371183163013
+    second: TileMap(KoyuKahve) sol_33
+  - first:
+      213: -5755838462890169485
+    second: TileMap(KoyuKahve) sol_34
+  - first:
+      213: 7784567742491647
+    second: TileMap(KoyuKahve) sol_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 379
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77ac036a4903810800000000000000
+      internalID: 1743056497296439244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 379
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe31ab927c868e0800000000000000
+      internalID: -1699889877302907064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e319f6f2a19a8d0800000000000000
+      internalID: -2834705699415441894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1caeaaadc753df0800000000000000
+      internalID: -201117329735892546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f744a25ca7bbf80800000000000000
+      internalID: -8089737318404686018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 335
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd60f167d5052a0800000000000000
+      internalID: -6750793079520305695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344e782ba63edcb0800000000000000
+      internalID: -4837368841002662855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e0705e3d29e0c0800000000000000
+      internalID: -4546052603193007121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b90d47c1b297a70800000000000000
+      internalID: 8825132346028104564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 291
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6edd4dcaf35cc0800000000000000
+      internalID: -3723356707223606733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95590112a336ba2f0800000000000000
+      internalID: -960564994199480999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cd43d748a9b930800000000000000
+      internalID: 4159540757294598153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd43466e61150d0800000000000000
+      internalID: -3435939861927502895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba910572db125640800000000000000
+      internalID: 5067143121465350833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 247
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923d4ba1cc16a5e0800000000000000
+      internalID: -1898798574761856366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2721fd360c1000800000000000000
+      internalID: 7888162456546724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966995245c9af1f0800000000000000
+      internalID: -1010323281169258850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed56568cf4cd1b030800000000000000
+      internalID: 3508827819920942558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac6013ae8ad8e20800000000000000
+      internalID: 3354523021259229878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 203
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5609143aaf5c6100800000000000000
+      internalID: 102562076145813085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab709e370dd89f50800000000000000
+      internalID: 6888498653247339431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dace0eebf6d419d0800000000000000
+      internalID: -2804380290425894190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8abb657e5600030800000000000000
+      internalID: 3458876558087530676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72871cbe4ab3400800000000000000
+      internalID: 305018732247787487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 159
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc630724ba428a0800000000000000
+      internalID: -6330746874337243223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a459161a49176b0800000000000000
+      internalID: -5300291865590543729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760759e7bf66bdeb0800000000000000
+      internalID: -4694044956257062809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812aa7b3918f8b950800000000000000
+      internalID: 6465190052346110488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a079f36e022820800000000000000
+      internalID: 2891889733274739821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc4d63e8bb6ddb0800000000000000
+      internalID: -4767416936045425418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951c14e1fc130ea0800000000000000
+      internalID: -5907846460940216933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d574c7be7839d0800000000000000
+      internalID: -2794344241043222378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6c771d4bd6242a0800000000000000
+      internalID: -6754715867726494041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 71
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79788dd0f52ef3d0800000000000000
+      internalID: -3171055371183163013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ba6eae9672f10b0800000000000000
+      internalID: -5755838462890169485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap(KoyuKahve) sol_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb650be508ab1000800000000000000
+      internalID: 7784567742491647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 855508c77297f044eaf82ef83b02e76b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -609582445301723550
+    second: "TileMap(mavi) sa\u011F_0"
+  - first:
+      213: 472884061054283097
+    second: "TileMap(mavi) sa\u011F_1"
+  - first:
+      213: -1030534653285015733
+    second: "TileMap(mavi) sa\u011F_2"
+  - first:
+      213: -4403696777864467753
+    second: "TileMap(mavi) sa\u011F_3"
+  - first:
+      213: 3910647008007316366
+    second: "TileMap(mavi) sa\u011F_4"
+  - first:
+      213: -6982623333579938430
+    second: "TileMap(mavi) sa\u011F_5"
+  - first:
+      213: -2902912503675485233
+    second: "TileMap(mavi) sa\u011F_6"
+  - first:
+      213: 3342603010061794078
+    second: "TileMap(mavi) sa\u011F_7"
+  - first:
+      213: -8068625942223395701
+    second: "TileMap(mavi) sa\u011F_8"
+  - first:
+      213: 3031775020133857717
+    second: "TileMap(mavi) sa\u011F_9"
+  - first:
+      213: -5353125564308391562
+    second: "TileMap(mavi) sa\u011F_10"
+  - first:
+      213: 7536683317399976646
+    second: "TileMap(mavi) sa\u011F_11"
+  - first:
+      213: 1933041106183420724
+    second: "TileMap(mavi) sa\u011F_12"
+  - first:
+      213: -1801357978289693250
+    second: "TileMap(mavi) sa\u011F_13"
+  - first:
+      213: -3738588982980873357
+    second: "TileMap(mavi) sa\u011F_14"
+  - first:
+      213: -7523211291888290109
+    second: "TileMap(mavi) sa\u011F_15"
+  - first:
+      213: -6004052738390191120
+    second: "TileMap(mavi) sa\u011F_16"
+  - first:
+      213: -998138110607695397
+    second: "TileMap(mavi) sa\u011F_17"
+  - first:
+      213: -3962050214352325033
+    second: "TileMap(mavi) sa\u011F_18"
+  - first:
+      213: 6895673785184178072
+    second: "TileMap(mavi) sa\u011F_19"
+  - first:
+      213: -8927884300301326069
+    second: "TileMap(mavi) sa\u011F_20"
+  - first:
+      213: -2006505474886965727
+    second: "TileMap(mavi) sa\u011F_21"
+  - first:
+      213: -5932245120959583980
+    second: "TileMap(mavi) sa\u011F_22"
+  - first:
+      213: -7405931123516484022
+    second: "TileMap(mavi) sa\u011F_23"
+  - first:
+      213: -6635080084281451704
+    second: "TileMap(mavi) sa\u011F_24"
+  - first:
+      213: -3159349641999095044
+    second: "TileMap(mavi) sa\u011F_25"
+  - first:
+      213: -7168968630675953757
+    second: "TileMap(mavi) sa\u011F_26"
+  - first:
+      213: -7012090620138793927
+    second: "TileMap(mavi) sa\u011F_27"
+  - first:
+      213: -79147748588094136
+    second: "TileMap(mavi) sa\u011F_28"
+  - first:
+      213: -300671737000964452
+    second: "TileMap(mavi) sa\u011F_29"
+  - first:
+      213: 4905717936865554194
+    second: "TileMap(mavi) sa\u011F_30"
+  - first:
+      213: 6303234070419120777
+    second: "TileMap(mavi) sa\u011F_31"
+  - first:
+      213: -3646026905452547767
+    second: "TileMap(mavi) sa\u011F_32"
+  - first:
+      213: 5530896159906408996
+    second: "TileMap(mavi) sa\u011F_33"
+  - first:
+      213: 106787451035586069
+    second: "TileMap(mavi) sa\u011F_34"
+  - first:
+      213: -2371033219412833538
+    second: "TileMap(mavi) sa\u011F_35"
+  - first:
+      213: 453819848820585622
+    second: "TileMap(mavi) sa\u011F_36"
+  - first:
+      213: 1405293992085974065
+    second: "TileMap(mavi) sa\u011F_37"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_0"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 438
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0a76eef35a87f0800000000000000
+      internalID: -609582445301723550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_1"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 438
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da51f4c85009600800000000000000
+      internalID: 472884061054283097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 394
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f573e513ec2b1f0800000000000000
+      internalID: -1030534653285015733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_3"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 394
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2bd0cc1de2e2c0800000000000000
+      internalID: -4403696777864467753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_4"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 394
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83683afbb8654630800000000000000
+      internalID: 3910647008007316366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_5"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 394
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2852d99d21db81f90800000000000000
+      internalID: -6982623333579938430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_6"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 350
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3026c4578c6b7d0800000000000000
+      internalID: -2902912503675485233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_7"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b72ef4abf436e20800000000000000
+      internalID: 3342603010061794078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_8"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 350
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e548747b760090800000000000000
+      internalID: -8068625942223395701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_9"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 350
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93bf95157031a20800000000000000
+      internalID: 3031775020133857717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_10"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 350
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f55d49a0e5b5b0800000000000000
+      internalID: -5353125564308391562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_11"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cafc3ecb8da79860800000000000000
+      internalID: 7536683317399976646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_12"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7a46f4aa83da10800000000000000
+      internalID: 1933041106183420724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_13"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1ab6767a4007e0800000000000000
+      internalID: -1801357978289693250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_14"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 306
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737c3cb02ddd1cc0800000000000000
+      internalID: -3738588982980873357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_15"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 306
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67ac0903f289790800000000000000
+      internalID: -7523211291888290109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_16"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 262
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39a8368d15daca0800000000000000
+      internalID: -6004052738390191120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_17"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 262
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e2704da6e522f0800000000000000
+      internalID: -998138110607695397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_18"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 262
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f4476258f309c0800000000000000
+      internalID: -3962050214352325033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_19"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 262
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f40e4d5ca52bf50800000000000000
+      internalID: 6895673785184178072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_20"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 262
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09a0c4e788c91480800000000000000
+      internalID: -8927884300301326069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_21"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 218
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266c79c6e57724e0800000000000000
+      internalID: -2006505474886965727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_22"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 218
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e8ac2e7e6cada0800000000000000
+      internalID: -5932245120959583980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_23"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465ac7a1e8d83990800000000000000
+      internalID: -7405931123516484022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_24"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 218
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b922841d57be3a0800000000000000
+      internalID: -6635080084281451704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_25"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 218
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae2635d3cb724d0800000000000000
+      internalID: -3159349641999095044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_26"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 174
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a724a26305b28c90800000000000000
+      internalID: -7168968630675953757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_27"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 174
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93457cd8bbc00be90800000000000000
+      internalID: -7012090620138793927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_28"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 174
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d72a0ca8fc6eef0800000000000000
+      internalID: -79147748588094136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_29"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 174
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ece02f5acc3dbf0800000000000000
+      internalID: -300671737000964452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_30"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 130
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2223d87c941440800000000000000
+      internalID: 4905717936865554194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_31"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 130
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a877bdf5997750800000000000000
+      internalID: 6303234070419120777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_32"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 130
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941fbf2d8d5b66dc0800000000000000
+      internalID: -3646026905452547767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_33"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 130
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a2bc4e0c0b1cc40800000000000000
+      internalID: 5530896159906408996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_34"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0275fe926b7100800000000000000
+      internalID: 106787451035586069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_35"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 86
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4f3669d5681fd0800000000000000
+      internalID: -2371033219412833538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_36"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f8f08fba4c4600800000000000000
+      internalID: 453819848820585622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TileMap(mavi) sa\u011F_37"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 42
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c6643b07b908310800000000000000
+      internalID: 1405293992085974065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
