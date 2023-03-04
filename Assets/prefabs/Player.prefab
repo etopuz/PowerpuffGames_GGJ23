@@ -199,7 +199,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6794027623423711122}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.001, y: -0.243, z: 0}
+  m_LocalPosition: {x: -0.051, y: -0.243, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6794027624869216448}
@@ -357,6 +357,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
+  facingRight: 1
   isGrounded: 0
   groundCheckPosition: {fileID: 6794027623423711125}
   groundCheckRadius: 0.1
@@ -464,7 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64b2532f32b7b5c4aadabfdc0839185b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToShow: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+  objectToShow: {fileID: 0}
 --- !u!1001 &6794027625171111127
 PrefabInstance:
   m_ObjectHideFlags: 0

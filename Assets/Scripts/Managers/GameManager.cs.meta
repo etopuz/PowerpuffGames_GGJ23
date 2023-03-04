@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - deathCanvas: {instanceID: 0}
+  - deathCanvas: {fileID: 8439156906248595487, guid: c5420aed9473f8f448a08bad3b8af4f9, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
