@@ -13,6 +13,10 @@ public class LevelChanger : MonoBehaviour
         if (other.CompareTag("Player"))
         {     
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
+            BasePlayer player = other.transform.GetComponent<BasePlayer>();
+            PlayerPrefs.SetInt("PlayerHealth", player.health);
+            PlayerPrefs.Save();
         }
     }
     

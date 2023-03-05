@@ -6,8 +6,9 @@ public class GameManager : Singleton<GameManager>
     public bool isWin = false;
     public bool isLose = false;
     public bool isPlaying = true;
-
     public GameObject deathCanvas;
+
+    private int playerHealth;
 
     private void Start() {
         deathCanvas = (GameObject) Resources.Load("DeathScreen");

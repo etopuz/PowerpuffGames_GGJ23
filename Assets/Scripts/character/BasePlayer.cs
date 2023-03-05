@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class BasePlayer : BaseUnit
 {
 
+    public int maxHealth;
+    
     public Transform weaponPoint;
 
     public float radius;
@@ -24,14 +26,17 @@ public class BasePlayer : BaseUnit
 
     public Animator anim;
 
+
+
     
 
     public void Start()
     {
         base.Start();
-        slider.maxValue = health;
-        slider.value = health;
+        slider.maxValue = maxHealth;
         anim = GetComponent<Animator>();
+        SetHealthOnStart();
+        slider.value = health;
     }
 
 
@@ -97,6 +102,20 @@ public class BasePlayer : BaseUnit
            health = (int)slider.maxValue;
         }
         slider.value = health;
+    }
+
+
+    private void SetHealthOnStart(){
+
+        if (PlayerPrefs.HasKey("PlayerHealth"))
+        {
+            health = PlayerPrefs.GetInt("PlayerHealth");
+        }
+
+        else
+        {
+            health = maxHealth; 
+        }
     }
 
 }

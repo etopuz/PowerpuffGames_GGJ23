@@ -410,6 +410,7 @@ MonoBehaviour:
   damageTakenSound: {fileID: 8300000, guid: c726f778f1336734aba08097dc970d19, type: 3}
   slider: {fileID: 3135070922655539142}
   anim: {fileID: 0}
+  maxHealth: 150
 --- !u!114 &8742076406567335872
 MonoBehaviour:
   m_ObjectHideFlags: 0
