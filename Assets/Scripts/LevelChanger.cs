@@ -41,7 +41,7 @@ public class LevelChanger : MonoBehaviour
         }
         if (LevelIndex == 4)
         {
-            SceneManager.LoadScene("LevelMenu");
+            SceneManager.LoadScene("StartScene");
         }
         if (LevelIndex == 5)
         {
