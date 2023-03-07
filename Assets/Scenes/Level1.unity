@@ -5234,9 +5234,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Kap\u0131"
       objectReference: {fileID: 0}
-    - target: {fileID: 5393416167643202938, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+    - target: {fileID: 5393416167643202942, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}
+      propertyPath: animator
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6ca922c2b8d21c408585797a1d4f28b, type: 3}

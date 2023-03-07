@@ -103,7 +103,7 @@ MonoBehaviour:
   patrolPoints:
   - {fileID: 0}
   - {fileID: 0}
-  moveSpeed: 2
+  moveSpeed: 3
   patrolDestination: 0
 --- !u!50 &5817083368469072882
 Rigidbody2D:

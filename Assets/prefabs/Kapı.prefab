@@ -122,4 +122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2dd1d5c3a18e8a4fa7ce61bf3c6b531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelIndex: 0
+  LevelIndex: 8
+  delayTime: 1
+  animator: {fileID: 0}
