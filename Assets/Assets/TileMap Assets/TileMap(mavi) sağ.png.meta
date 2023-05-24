@@ -138,6 +138,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -204,6 +205,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1025,6 +1038,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "TileMap(mavi) sa\u011F_16": -6004052738390191120
+      "TileMap(mavi) sa\u011F_24": -6635080084281451704
+      "TileMap(mavi) sa\u011F_29": -300671737000964452
+      "TileMap(mavi) sa\u011F_5": -6982623333579938430
+      "TileMap(mavi) sa\u011F_35": -2371033219412833538
+      "TileMap(mavi) sa\u011F_36": 453819848820585622
+      "TileMap(mavi) sa\u011F_6": -2902912503675485233
+      "TileMap(mavi) sa\u011F_20": -8927884300301326069
+      "TileMap(mavi) sa\u011F_4": 3910647008007316366
+      "TileMap(mavi) sa\u011F_12": 1933041106183420724
+      "TileMap(mavi) sa\u011F_19": 6895673785184178072
+      "TileMap(mavi) sa\u011F_0": -609582445301723550
+      "TileMap(mavi) sa\u011F_17": -998138110607695397
+      "TileMap(mavi) sa\u011F_10": -5353125564308391562
+      "TileMap(mavi) sa\u011F_37": 1405293992085974065
+      "TileMap(mavi) sa\u011F_11": 7536683317399976646
+      "TileMap(mavi) sa\u011F_13": -1801357978289693250
+      "TileMap(mavi) sa\u011F_32": -3646026905452547767
+      "TileMap(mavi) sa\u011F_26": -7168968630675953757
+      "TileMap(mavi) sa\u011F_31": 6303234070419120777
+      "TileMap(mavi) sa\u011F_8": -8068625942223395701
+      "TileMap(mavi) sa\u011F_27": -7012090620138793927
+      "TileMap(mavi) sa\u011F_3": -4403696777864467753
+      "TileMap(mavi) sa\u011F_7": 3342603010061794078
+      "TileMap(mavi) sa\u011F_21": -2006505474886965727
+      "TileMap(mavi) sa\u011F_25": -3159349641999095044
+      "TileMap(mavi) sa\u011F_14": -3738588982980873357
+      "TileMap(mavi) sa\u011F_18": -3962050214352325033
+      "TileMap(mavi) sa\u011F_28": -79147748588094136
+      "TileMap(mavi) sa\u011F_15": -7523211291888290109
+      "TileMap(mavi) sa\u011F_22": -5932245120959583980
+      "TileMap(mavi) sa\u011F_2": -1030534653285015733
+      "TileMap(mavi) sa\u011F_34": 106787451035586069
+      "TileMap(mavi) sa\u011F_30": 4905717936865554194
+      "TileMap(mavi) sa\u011F_33": 5530896159906408996
+      "TileMap(mavi) sa\u011F_1": 472884061054283097
+      "TileMap(mavi) sa\u011F_9": 3031775020133857717
+      "TileMap(mavi) sa\u011F_23": -7405931123516484022
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
