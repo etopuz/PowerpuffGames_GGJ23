@@ -147,7 +147,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -214,18 +213,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1110,48 +1097,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "sa\u011Fad\xF6n\xFCkl_6": -2353332269906764229
-      "sa\u011Fad\xF6n\xFCkl_11": -6081026174840264674
-      "sa\u011Fad\xF6n\xFCkl_27": -7288262152317307555
-      "sa\u011Fad\xF6n\xFCkl_14": -261101207803297469
-      "sa\u011Fad\xF6n\xFCkl_29": -5257776665960206397
-      "sa\u011Fad\xF6n\xFCkl_36": 592660715720693174
-      "sa\u011Fad\xF6n\xFCkl_40": 2227156623140385615
-      "sa\u011Fad\xF6n\xFCkl_21": 7626736439840793765
-      "sa\u011Fad\xF6n\xFCkl_13": 6291054503105465218
-      "sa\u011Fad\xF6n\xFCkl_8": 4992901729560557567
-      "sa\u011Fad\xF6n\xFCkl_2": -928030076272481350
-      "sa\u011Fad\xF6n\xFCkl_10": -4018727625107471297
-      "sa\u011Fad\xF6n\xFCkl_15": -641978675568863662
-      "sa\u011Fad\xF6n\xFCkl_23": -2715622611090171311
-      "sa\u011Fad\xF6n\xFCkl_4": -7593368225689649809
-      "sa\u011Fad\xF6n\xFCkl_35": -4736387049721202528
-      "sa\u011Fad\xF6n\xFCkl_39": 8879980068969805668
-      "sa\u011Fad\xF6n\xFCkl_7": 6079503320630726246
-      "sa\u011Fad\xF6n\xFCkl_16": 2495298653909616174
-      "sa\u011Fad\xF6n\xFCkl_34": 8789082044045067610
-      "sa\u011Fad\xF6n\xFCkl_38": 8090585559711480466
-      "sa\u011Fad\xF6n\xFCkl_3": 1131672130663540461
-      "sa\u011Fad\xF6n\xFCkl_0": -4858906911209375479
-      "sa\u011Fad\xF6n\xFCkl_5": -5514775312872163385
-      "sa\u011Fad\xF6n\xFCkl_28": 7775677222413781481
-      "sa\u011Fad\xF6n\xFCkl_33": 4595571217125063719
-      "sa\u011Fad\xF6n\xFCkl_1": 4391915362051748892
-      "sa\u011Fad\xF6n\xFCkl_32": 6476216245237342378
-      "sa\u011Fad\xF6n\xFCkl_19": 6451893660403763455
-      "sa\u011Fad\xF6n\xFCkl_30": -621627777294693738
-      "sa\u011Fad\xF6n\xFCkl_17": -1592028625783343480
-      "sa\u011Fad\xF6n\xFCkl_37": -7996300689567096635
-      "sa\u011Fad\xF6n\xFCkl_25": 3151504999270386547
-      "sa\u011Fad\xF6n\xFCkl_20": 7045615810751582749
-      "sa\u011Fad\xF6n\xFCkl_12": -3760163244949986241
-      "sa\u011Fad\xF6n\xFCkl_24": -339716790080655330
-      "sa\u011Fad\xF6n\xFCkl_18": -1081948748739433766
-      "sa\u011Fad\xF6n\xFCkl_9": 8964039662617629285
-      "sa\u011Fad\xF6n\xFCkl_26": 49658476748155002
-      "sa\u011Fad\xF6n\xFCkl_22": -2958160595881759960
-      "sa\u011Fad\xF6n\xFCkl_31": 7759796178514310099
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

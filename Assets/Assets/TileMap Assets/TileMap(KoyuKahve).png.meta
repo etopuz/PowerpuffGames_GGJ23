@@ -147,7 +147,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -214,18 +213,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1110,48 +1097,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TileMap(KoyuKahve)_23: 570312684571015143
-      TileMap(KoyuKahve)_15: -7755906675239474178
-      TileMap(KoyuKahve)_24: -8334386773911442155
-      TileMap(KoyuKahve)_1: 8241478658351425520
-      TileMap(KoyuKahve)_7: -5947457625255311917
-      TileMap(KoyuKahve)_17: -6757003970103757282
-      TileMap(KoyuKahve)_29: -6033181923530273250
-      TileMap(KoyuKahve)_2: 832757632909816809
-      TileMap(KoyuKahve)_36: 1452835260514295534
-      TileMap(KoyuKahve)_31: -2653783963968920929
-      TileMap(KoyuKahve)_8: -3224067115137706375
-      TileMap(KoyuKahve)_12: 993384140654334875
-      TileMap(KoyuKahve)_18: -6971398409507104519
-      TileMap(KoyuKahve)_16: -7109912212577465638
-      TileMap(KoyuKahve)_38: 4641715888971176458
-      TileMap(KoyuKahve)_35: -5296866183915286043
-      TileMap(KoyuKahve)_39: -6361158424496334368
-      TileMap(KoyuKahve)_30: -7060440814595713844
-      TileMap(KoyuKahve)_40: -6965087649636194
-      TileMap(KoyuKahve)_37: -5979818278874362583
-      TileMap(KoyuKahve)_11: -4154724550236189594
-      TileMap(KoyuKahve)_9: 8693289723622630517
-      TileMap(KoyuKahve)_22: 6190360852111054629
-      TileMap(KoyuKahve)_13: -4876183750465807672
-      TileMap(KoyuKahve)_25: -375581818061683483
-      TileMap(KoyuKahve)_28: 5352313975416934901
-      TileMap(KoyuKahve)_32: -8813753643141035876
-      TileMap(KoyuKahve)_27: -3039396769387775860
-      TileMap(KoyuKahve)_33: -5548820079509808746
-      TileMap(KoyuKahve)_34: -7409461656104996717
-      TileMap(KoyuKahve)_5: -7594678946341506247
-      TileMap(KoyuKahve)_19: 1478494329711961932
-      TileMap(KoyuKahve)_20: -6142868886579133928
-      TileMap(KoyuKahve)_26: 2273909725350032094
-      TileMap(KoyuKahve)_3: -4268815843329443831
-      TileMap(KoyuKahve)_21: 4359036063531544585
-      TileMap(KoyuKahve)_14: -7404284682578645707
-      TileMap(KoyuKahve)_4: -4749478917932597255
-      TileMap(KoyuKahve)_10: 5651169238671558613
-      TileMap(KoyuKahve)_0: -2837474860815921918
-      TileMap(KoyuKahve)_6: -4639384032549360230
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

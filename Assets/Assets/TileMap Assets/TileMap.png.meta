@@ -2319,7 +2319,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2386,18 +2385,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3387,53 +3374,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TileMap_30: 8879498155262014745
-      TileMap_19: 7676123537625980809
-      TileMap_32: 1450956198460861597
-      TileMap_20: 8640776830150050163
-      TileMap_24: 1055910621158681980
-      TileMap_4: -429959906181099326
-      TileMap_9: 3930985743609300040
-      TileMap_23: 7002414360627261995
-      TileMap_12: 2557669190468724559
-      TileMap_0: 8537651536920830917
-      TileMap_3: -5641712530122005352
-      TileMap_14: -8776811670242405126
-      TileMap_39: -6122803868981006869
-      TileMap_6: 8625190693002769308
-      TileMap_10: 5999395695199251347
-      TileMap_40: -8269608208190471049
-      TileMap_7: -7425697577321335290
-      TileMap_28: -1369627465339546951
-      TileMap_35: -6537160563541904516
-      TileMap_41: 7468981055902592365
-      TileMap_16: -6535339056072157310
-      TileMap_25: -5162037417038582772
-      TileMap_21: 4918954326973655007
-      TileMap_2: 4957045185305522080
-      TileMap_1: 2097702617349663825
-      TileMap_18: -3405914164742144988
-      TileMap_43: -6243251009859358573
-      TileMap_45: 5888763695748857628
-      TileMap_17: -829285371938577886
-      TileMap_29: -2131934207796003492
-      TileMap_36: -5259657550923017811
-      TileMap_42: -2875880056530956140
-      TileMap_13: -3538781675841943732
-      TileMap_34: 1591334146556337513
-      TileMap_5: 1290571919319623517
-      TileMap_27: -5402834211872792866
-      TileMap_15: 7855418110897177041
-      TileMap_37: -4968838893791975889
-      TileMap_11: -6785098178125120784
-      TileMap_38: -4343814800504865453
-      TileMap_26: -4676414299732812077
-      TileMap_22: -4405744225997740028
-      TileMap_31: 3281109055902086043
-      TileMap_33: 3634786099969567965
-      TileMap_44: -3112962688156652818
-      TileMap_8: -79306799469508579
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -132,7 +132,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -199,18 +198,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -990,43 +977,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TileMap(mavi) sol_5: 1359554444733371750
-      TileMap(mavi) sol_32: -8453235098595869364
-      TileMap(mavi) sol_31: 8236338379285979072
-      TileMap(mavi) sol_4: -3074761548756955769
-      TileMap(mavi) sol_9: -8488043699613086027
-      TileMap(mavi) sol_21: 393775277899874065
-      TileMap(mavi) sol_35: 4978565659927503283
-      TileMap(mavi) sol_2: -6384511230919559769
-      TileMap(mavi) sol_24: 1750698146532628695
-      TileMap(mavi) sol_13: 5049221448190208630
-      TileMap(mavi) sol_15: 256695825585268453
-      TileMap(mavi) sol_29: -2756164910653927529
-      TileMap(mavi) sol_14: 8442874182058626892
-      TileMap(mavi) sol_1: 8114960085241226765
-      TileMap(mavi) sol_27: -7385135342868469700
-      TileMap(mavi) sol_17: -3458755760673828369
-      TileMap(mavi) sol_26: -7139004269294318051
-      TileMap(mavi) sol_11: 2819756939063967648
-      TileMap(mavi) sol_8: 8239538922331367596
-      TileMap(mavi) sol_12: 2336569656591295962
-      TileMap(mavi) sol_20: -6421662907560204723
-      TileMap(mavi) sol_16: 5384538144464387119
-      TileMap(mavi) sol_25: 4593232995383450203
-      TileMap(mavi) sol_18: -5103342383489240158
-      TileMap(mavi) sol_34: 8135356699030601777
-      TileMap(mavi) sol_28: -931326854292504405
-      TileMap(mavi) sol_19: 6131708025619700610
-      TileMap(mavi) sol_10: -7978807749159792836
-      TileMap(mavi) sol_33: 5454993466788699226
-      TileMap(mavi) sol_30: -3272122157195445907
-      TileMap(mavi) sol_22: 3815261112249643530
-      TileMap(mavi) sol_6: -866255761670390331
-      TileMap(mavi) sol_7: -638640756010222882
-      TileMap(mavi) sol_0: -5400563710367875001
-      TileMap(mavi) sol_3: 4863547009871914398
-      TileMap(mavi) sol_23: -8745645389869371167
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

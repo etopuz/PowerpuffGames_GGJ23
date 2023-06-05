@@ -138,7 +138,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -205,18 +204,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1038,45 +1025,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "TileMap(KoyuKahve) sa\u011F_26": -3049568382488256531
-      "TileMap(KoyuKahve) sa\u011F_37": 4567012157994168607
-      "TileMap(KoyuKahve) sa\u011F_8": -2762439215468795539
-      "TileMap(KoyuKahve) sa\u011F_18": 3477291483315454286
-      "TileMap(KoyuKahve) sa\u011F_9": 2166037140883162113
-      "TileMap(KoyuKahve) sa\u011F_0": 7976335370711845287
-      "TileMap(KoyuKahve) sa\u011F_10": -6677286817576705639
-      "TileMap(KoyuKahve) sa\u011F_25": -5537749673094021769
-      "TileMap(KoyuKahve) sa\u011F_28": 2592895162638738191
-      "TileMap(KoyuKahve) sa\u011F_13": -8558471642671458759
-      "TileMap(KoyuKahve) sa\u011F_5": -8959887689965451564
-      "TileMap(KoyuKahve) sa\u011F_6": 8698117963472128053
-      "TileMap(KoyuKahve) sa\u011F_29": -8381063761458815279
-      "TileMap(KoyuKahve) sa\u011F_2": 7323062905925021818
-      "TileMap(KoyuKahve) sa\u011F_27": -4577831636907651789
-      "TileMap(KoyuKahve) sa\u011F_23": -5655335896119794212
-      "TileMap(KoyuKahve) sa\u011F_31": -5855072674744503045
-      "TileMap(KoyuKahve) sa\u011F_35": -2054777648293541244
-      "TileMap(KoyuKahve) sa\u011F_30": -5019039105424047392
-      "TileMap(KoyuKahve) sa\u011F_33": -4051867327124705040
-      "TileMap(KoyuKahve) sa\u011F_11": 3571849651373039500
-      "TileMap(KoyuKahve) sa\u011F_3": 2996759264267048352
-      "TileMap(KoyuKahve) sa\u011F_17": -6309855782072823055
-      "TileMap(KoyuKahve) sa\u011F_15": 8598907145265746550
-      "TileMap(KoyuKahve) sa\u011F_32": -4222307438471621072
-      "TileMap(KoyuKahve) sa\u011F_22": -7858415094456191473
-      "TileMap(KoyuKahve) sa\u011F_21": 6991914149926158760
-      "TileMap(KoyuKahve) sa\u011F_36": 4174713006562733260
-      "TileMap(KoyuKahve) sa\u011F_20": 7236134555928392969
-      "TileMap(KoyuKahve) sa\u011F_24": 6488453390581393430
-      "TileMap(KoyuKahve) sa\u011F_12": -4555385495634168081
-      "TileMap(KoyuKahve) sa\u011F_1": 2337703286360237247
-      "TileMap(KoyuKahve) sa\u011F_4": 3095501189734672035
-      "TileMap(KoyuKahve) sa\u011F_14": 2790351014442573562
-      "TileMap(KoyuKahve) sa\u011F_7": 5663579970554110580
-      "TileMap(KoyuKahve) sa\u011F_19": -7848011867479826862
-      "TileMap(KoyuKahve) sa\u011F_16": -3013751191606645774
-      "TileMap(KoyuKahve) sa\u011F_34": 6493564841706157314
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
