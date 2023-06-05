@@ -147,6 +147,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -213,6 +214,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1097,6 +1110,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TileMap(mavi)_25: 7473512139649843938
+      TileMap(mavi)_37: -8924285420516334666
+      TileMap(mavi)_5: 2222967771864767833
+      TileMap(mavi)_15: 565503168187825438
+      TileMap(mavi)_19: -1725101694784321458
+      TileMap(mavi)_31: -6768541802928901848
+      TileMap(mavi)_14: -6024182696686587637
+      TileMap(mavi)_1: 7227218474221984290
+      TileMap(mavi)_10: 2166673838676011413
+      TileMap(mavi)_16: -9143819901724459639
+      TileMap(mavi)_30: 4314115907319461635
+      TileMap(mavi)_24: 3397341052141584285
+      TileMap(mavi)_18: -2241949438457217130
+      TileMap(mavi)_27: -1064615710450913627
+      TileMap(mavi)_35: 5761239637299448023
+      TileMap(mavi)_13: -5346388792408294449
+      TileMap(mavi)_8: 1881659864641693595
+      TileMap(mavi)_12: -2192760923887767478
+      TileMap(mavi)_7: -7930857397026818283
+      TileMap(mavi)_6: 6578202492529559111
+      TileMap(mavi)_33: -523670841995754958
+      TileMap(mavi)_21: -4121879299393209793
+      TileMap(mavi)_39: -1620233764307226557
+      TileMap(mavi)_22: 2351499518338412184
+      TileMap(mavi)_29: -6331898019717332110
+      TileMap(mavi)_26: 5591189814816488501
+      TileMap(mavi)_23: -8095584932281176843
+      TileMap(mavi)_11: 1970988955096156381
+      TileMap(mavi)_34: -2668095886854538485
+      TileMap(mavi)_38: -4784838005505965559
+      TileMap(mavi)_2: -7838023644979089047
+      TileMap(mavi)_9: -669553648919622522
+      TileMap(mavi)_40: -1421907731511890093
+      TileMap(mavi)_4: 7764304699902604405
+      TileMap(mavi)_17: 2247649569769290579
+      TileMap(mavi)_3: -4362084574736500571
+      TileMap(mavi)_32: -1219457229970670325
+      TileMap(mavi)_0: 5633270781079616543
+      TileMap(mavi)_36: 3764592494915636145
+      TileMap(mavi)_28: 3532297401784694421
+      TileMap(mavi)_20: 3842727860853953754
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
